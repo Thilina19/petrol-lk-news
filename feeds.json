@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sri Lanka Motorsport",
+    "url": "https://news.google.com/rss/search?q=Sri+Lanka+motorsport&hl=en&gl=LK&ceid=LK:en",
+    "category": "sri-lanka-motorsport"
+  },
+  {
+    "name": "Sri Lanka Automotive",
+    "url": "https://news.google.com/rss/search?q=Sri+Lanka+automotive+OR+Sri+Lanka+vehicle&hl=en&gl=LK&ceid=LK:en",
+    "category": "sri-lanka-automotive"
+  },
+  {
+    "name": "Global Motorsport",
+    "url": "https://news.google.com/rss/search?q=Formula+1+OR+MotoGP+OR+WRC+OR+Endurance+racing&hl=en&gl=US&ceid=US:en",
+    "category": "global-motorsport"
+  },
+  {
+    "name": "Global Automotive",
+    "url": "https://news.google.com/rss/search?q=automotive+industry+news&hl=en&gl=US&ceid=US:en",
+    "category": "global-automotive"
+  }
+]
