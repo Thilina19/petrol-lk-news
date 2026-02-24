@@ -1,7 +1,8 @@
 {
   "name": "petrol-lk-news",
-  "main": "./worker.js",
+  "main": "worker.js",
   "compatibility_date": "2026-02-24",
+  "workers_dev": true,
   "assets": {
     "directory": "./public",
     "binding": "ASSETS"
