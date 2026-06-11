@@ -1,1 +1,802 @@
-[]
+[
+  {
+    "title": "BYD tops global automotive innovation ranking in historic first - Daily Mirror - Sri Lanka",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlZjSW0tR1NPU0s5cUYtMXkxTHJJQVJqWXdSWGNtTXNqaEx5SGFMWVpJMl8wX1dGWExjeXdvSDFCR0cxUnB0a3F5bzBlbXZEX1FFOVMxOW0tV3lUeVhTTHZjZTBGblBCSnlqQm5jY1FPQXNuVERydUNmblBGd3NCOTNxOXg0dkJyQjdTSkVGSDB1YXFWLXN3S3owMU0zS01iUEMwMmlKWVRYbk1UMVRTb2plRUNuME5nYUxsaWh3?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlZjSW0tR1NPU0s5cUYtMXkxTHJJQVJqWXdSWGNtTXNqaEx5SGFMWVpJMl8wX1dGWExjeXdvSDFCR0cxUnB0a3F5bzBlbXZEX1FFOVMxOW0tV3lUeVhTTHZjZTBGblBCSnlqQm5jY1FPQXNuVERydUNmblBGd3NCOTNxOXg0dkJyQjdTSkVGSDB1YXFWLXN3S3owMU0zS01iUEMwMmlKWVRYbk",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-11T04:19:33+00:00",
+    "published_sort": 1781151573.0
+  },
+  {
+    "title": "Toyota Lanka Drives a New Era of After Sales Excellence, Reinforcing a Legacy of Trust - Adaderana Biz English",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGx0bHhmdnNkaWkxZ1ZJZklDMlFoODZnX1QyekdiZkU4d3VyVmh6NGFlZF9zcjVmYlRKbTZsdmtvZV96NEdBWWpJbUpZY3A2U1k0XzVra092TzYzOGRHMzNNaGlTOU9zVWZDSFNtT1BLTXNDbUlpWjA2LWc1eFVZZG5GU3puNmFZZmFJcDlGREZZWTNnZzZzcnFnb201V2V1SUlrVHpmYUt4WnktT2Rwai01cGF1bktC?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGx0bHhmdnNkaWkxZ1ZJZklDMlFoODZnX1QyekdiZkU4d3VyVmh6NGFlZF9zcjVmYlRKbTZsdmtvZV96NEdBWWpJbUpZY3A2U1k0XzVra092TzYzOGRHMzNNaGlTOU9zVWZDSFNtT1BLTXNDbUlpWjA2LWc1eFVZZG5GU3puNmFZZmFJcDlGREZZWTNnZzZzcnFnb201V2V1SUlrVHpmYUt4Wn",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-11T04:11:32+00:00",
+    "published_sort": 1781151092.0
+  },
+  {
+    "title": "China's Changchun unveils auto revamp plan, seeks BYD and Xiaomi to boost EV push - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVDZYWmFUeHY0RWRvVFZ6dlpsWTN6cjdzVVg4VzI1SDlfQWhMajRmNWowQXBvZ1VLd1VsWlBkVXc0Z2k1a01CUElhbUZhWTh4ZWtuY05YYW50cnE4REtxaTh2ZUViV29LUFJqRktIQ1JZakJJQjNmVUpfVm10dmtlb3V3ZUlGSjYxRllxZ2JpcFJuUy0tTWo1Y0VEVVhsWFF4a1RScGZyZW5vWWk4ZG1GOGVKYktUbXNvNXY0U0k0RTMyWmhKV3JrMUgzOTZVeFQ2T0hQZg?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVDZYWmFUeHY0RWRvVFZ6dlpsWTN6cjdzVVg4VzI1SDlfQWhMajRmNWowQXBvZ1VLd1VsWlBkVXc0Z2k1a01CUElhbUZhWTh4ZWtuY05YYW50cnE4REtxaTh2ZUViV29LUFJqRktIQ1JZakJJQjNmVUpfVm10dmtlb3V3ZUlGSjYxRllxZ2JpcFJuUy0tTWo1Y0VEVVhsWFF4a1RScGZyZW5vWW",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-11T03:52:00+00:00",
+    "published_sort": 1781149920.0
+  },
+  {
+    "title": "Mexico Auto Output Hits 1.64 Million Units, Exports Rise 4% - Mexico Business News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWdGRW9MdlV1cjktOUFSbW4tN3BqWFVGTUtzQjVSUGJyMUZ4UG01SFEtZ0tFc29ncHV5NUh3dVZRLThTOVNyNHY3WV9rZEg0TTNzMF93VFBpXzRpUGdOMnloaGczTElrbHVpNjNQLURBVFNHdGJHVlJIMTItMl9JbE1aM2xjdzhSX2Q5S0dGRFdaM0E5cUZZMlEtVnRNUnRGc2c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWdGRW9MdlV1cjktOUFSbW4tN3BqWFVGTUtzQjVSUGJyMUZ4UG01SFEtZ0tFc29ncHV5NUh3dVZRLThTOVNyNHY3WV9rZEg0TTNzMF93VFBpXzRpUGdOMnloaGczTElrbHVpNjNQLURBVFNHdGJHVlJIMTItMl9JbE1aM2xjdzhSX2Q5S0dGRFdaM0E5cUZZMlEtVnRNUnRGc2c?oc=5\" targ",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T22:07:47+00:00",
+    "published_sort": 1781129267.0
+  },
+  {
+    "title": "Mexico Auto Parts Exports Drive US$9.9 Billion Trade Surplus - Mexico Business News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmJGSHdaMDFUaDl6dENEdGVmdWVVNlRDS05jWE9MSjloQVU3UEMxNFVNS2Z3dUo4VGlIV1VTd1pWNzZaVFVHeHJkT1ZOX2NzV0xtLV96RTFvS1hRLW9ENWFtdHFHZlFERjJxSmp3X0wzaFQwbDNVYS1YWEdycHB6UUZ3QkJVMDcxQXlTMENxNkhBZmE1T2FqUWJMSTVEOEpPX3JwYg?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmJGSHdaMDFUaDl6dENEdGVmdWVVNlRDS05jWE9MSjloQVU3UEMxNFVNS2Z3dUo4VGlIV1VTd1pWNzZaVFVHeHJkT1ZOX2NzV0xtLV96RTFvS1hRLW9ENWFtdHFHZlFERjJxSmp3X0wzaFQwbDNVYS1YWEdycHB6UUZ3QkJVMDcxQXlTMENxNkhBZmE1T2FqUWJMSTVEOEpPX3JwYg?oc=5\" t",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T21:50:15+00:00",
+    "published_sort": 1781128215.0
+  },
+  {
+    "title": "Ex-Nissan Boss Turned Fugitive Carlos Ghosn Says European Auto Industry Is Being 'Suffocated' - CarBuzz",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrT1pFMzRYa1YySnNJTENTYlVQMllGVWhQRVk5eU9ZbnVCV1piaGh6aWg5NFBMaUxGU2ZTaFFZWU1lNVlGME5xeHZSb1dqS3B6RUFNdk1BM3JvUWZKNWRQRVQ5VThyNmRhOXA5VlZWZlB4UXg4UGdvMDNFdw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBrT1pFMzRYa1YySnNJTENTYlVQMllGVWhQRVk5eU9ZbnVCV1piaGh6aWg5NFBMaUxGU2ZTaFFZWU1lNVlGME5xeHZSb1dqS3B6RUFNdk1BM3JvUWZKNWRQRVQ5VThyNmRhOXA5VlZWZlB4UXg4UGdvMDNFdw?oc=5\" target=\"_blank\">Ex-Nissan Boss Turned Fugitive Carlos Gho",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T21:17:12+00:00",
+    "published_sort": 1781126232.0
+  },
+  {
+    "title": "Formula 1 Agrees to Major Engine Rule Changes for 2027 and 2028 - Autoweek",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSG9MSWhDV2Zad2hMOG9udDNJY2hTdDVKdHpnTUl4R016OGV5ZGo5U1p0aDlORVJwRlJpeFNQOWJlc3pfTTZPQXltUzRPLTdRc1dRZTVNNGxuZWlTelBWZGdQYm5BZEMzTktzOHY4MU9TaE9nQVlhaHBoaGVGSW8tSHNqc1BkWVFsTGo4SUxOcW11ZkVRT3c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSG9MSWhDV2Zad2hMOG9udDNJY2hTdDVKdHpnTUl4R016OGV5ZGo5U1p0aDlORVJwRlJpeFNQOWJlc3pfTTZPQXltUzRPLTdRc1dRZTVNNGxuZWlTelBWZGdQYm5BZEMzTktzOHY4MU9TaE9nQVlhaHBoaGVGSW8tSHNqc1BkWVFsTGo4SUxOcW11ZkVRT3c?oc=5\" target=\"_blank\">Form",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T20:35:00+00:00",
+    "published_sort": 1781123700.0
+  },
+  {
+    "title": "China car exports jump 73% in May as high fuel prices raise interest in EVs - WRAL",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWtnTWwtYnpTcVNZVEwxamExMXJqcklSS0NFZ3o4YVBiTkhUMThqbTlDQVhsWXVjTVdaYUNBdGhfbnA1ZzVHTEJaUVhUZ2wwR1FkOEUwRDIzODd6RjJycUZqNXdfUWdxY1k1Y3Rya3g0Mm1SRjRiNHlxTmdheXlUaTlSNDlJSGFoNG5ld1FwWDlrRjkyalZHV1c4eFp3QklNXzBRUm5qMHdneHFPdnlR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWtnTWwtYnpTcVNZVEwxamExMXJqcklSS0NFZ3o4YVBiTkhUMThqbTlDQVhsWXVjTVdaYUNBdGhfbnA1ZzVHTEJaUVhUZ2wwR1FkOEUwRDIzODd6RjJycUZqNXdfUWdxY1k1Y3Rya3g0Mm1SRjRiNHlxTmdheXlUaTlSNDlJSGFoNG5ld1FwWDlrRjkyalZHV1c4eFp3QklNXzBRUm5qMHdneH",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T19:46:47+00:00",
+    "published_sort": 1781120807.0
+  },
+  {
+    "title": "Automakers Are Hiding Features You Paid For In Your EV And The Software Tools That Will Expose Their Secrets - Torque News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTBMMzVOWUFVdmF2RW5obExTZnFaUHExUGJxUU5DSWlrSlhCWDYySWRYTVNiazhhZGR1V2gwSmE4aXhlWG16QU16WURXS3Iwb1QyVGpRczhmNm9nRGNqY2pIaEp3dkZiQWtDZGNabno2ZkhiUE9UeGptcElyejFQSUh1S01HanZEb1FIc2kwZkpjNnM4M1JXT2EwdDBZa1RNdnZaV3FUYWdqZHByS055Y1NBNnMzQ0cxVEdkeHZjNEo1SDQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTBMMzVOWUFVdmF2RW5obExTZnFaUHExUGJxUU5DSWlrSlhCWDYySWRYTVNiazhhZGR1V2gwSmE4aXhlWG16QU16WURXS3Iwb1QyVGpRczhmNm9nRGNqY2pIaEp3dkZiQWtDZGNabno2ZkhiUE9UeGptcElyejFQSUh1S01HanZEb1FIc2kwZkpjNnM4M1JXT2EwdDBZa1RNdnZaV3FUYWdqZH",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T19:29:32+00:00",
+    "published_sort": 1781119772.0
+  },
+  {
+    "title": "Ford CEO Jim Farley Clarifies Blue Oval's Position on 'Right to Repair' Rules After Trump Comments - Road & Track",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM29pNDd1R1JiT3VCMnlwNEsxZ0xoLVQ1X1pUclN5aXA3c1hWbi0xczlndlVuRXhfQVc0SXZ1c05MNUZkb0c5MW9uZVM5Q0lkanpWRFJhOW1tS3FWVHM2Q1BaLTdpTWpJY19PaWluRld6OVBjOUsxb19SVFFOdmFNYjd4dE40VkNnLXZkaHZSN2RkLWQ1bXQzMHZQa0ZYWXItYlBoOFBBZzZEWkVpZHc?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNM29pNDd1R1JiT3VCMnlwNEsxZ0xoLVQ1X1pUclN5aXA3c1hWbi0xczlndlVuRXhfQVc0SXZ1c05MNUZkb0c5MW9uZVM5Q0lkanpWRFJhOW1tS3FWVHM2Q1BaLTdpTWpJY19PaWluRld6OVBjOUsxb19SVFFOdmFNYjd4dE40VkNnLXZkaHZSN2RkLWQ1bXQzMHZQa0ZYWXItYlBoOFBBZzZEWk",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T19:20:00+00:00",
+    "published_sort": 1781119200.0
+  },
+  {
+    "title": "Daily 5 report for June 10: Auto industry braces for more supply bottlenecks as Iran war drags on - Automotive News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmhTOHdYMHdWOC1CSm1KendHcnlnTDNCTVNaR2poQVRFdFl2NUJwcHdUUzZaZnpOR2c2c1RWSTNORUdyajlXY3dDTGhBV2tUeFRhUWZ5Q2thbmM3Y1FRbWE4VFVCQU02ZEdEQnVjenQxUGFRLUFScFJzV05JLTl5Y0NBN3RpQ0JJWHpWMm5OMFpJNkNrTUd6YjBPUmpHVDRrUUE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmhTOHdYMHdWOC1CSm1KendHcnlnTDNCTVNaR2poQVRFdFl2NUJwcHdUUzZaZnpOR2c2c1RWSTNORUdyajlXY3dDTGhBV2tUeFRhUWZ5Q2thbmM3Y1FRbWE4VFVCQU02ZEdEQnVjenQxUGFRLUFScFJzV05JLTl5Y0NBN3RpQ0JJWHpWMm5OMFpJNkNrTUd6YjBPUmpHVDRrUUE?oc=5\" targ",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T19:00:00+00:00",
+    "published_sort": 1781118000.0
+  },
+  {
+    "title": "Formula 1 shift to more engine power, less electric for 2027 agreed - Rutland Herald",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEFfZ1VNdjVFbl9CVV9WdHR6MDc5dUJjQ1VCbmc2UTdGT0VacGtQcXVCR2txanY4SE94MjFvSVYxVFdwLTI1N3RUZnB1dEZXUE5BNDRNejhPQWJaODBqM1VBNUdqNTlUbXEzLVJERFQxd0g4UlYxMFdLa2stN2ZHX1JOQWhPa2ZKSEc4WlUtRWJma0pHVmd5UXhLNF9tN1BBLVdSdTJINl9BUmM3amF6cU1yX2p1aGtuY1ZGM28zVHgyWElxNnhOczR3cmZTc29Wd3VTVkZEc2VDa05OLTJ6bnlFTVpITzhtcFdNYWx6MGJ4elFlSjFnbmlYUjVmSE1KU2xJ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEFfZ1VNdjVFbl9CVV9WdHR6MDc5dUJjQ1VCbmc2UTdGT0VacGtQcXVCR2txanY4SE94MjFvSVYxVFdwLTI1N3RUZnB1dEZXUE5BNDRNejhPQWJaODBqM1VBNUdqNTlUbXEzLVJERFQxd0g4UlYxMFdLa2stN2ZHX1JOQWhPa2ZKSEc4WlUtRWJma0pHVmd5UXhLNF9tN1BBLVdSdTJINl9BUm",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T18:56:13+00:00",
+    "published_sort": 1781117773.0
+  },
+  {
+    "title": "Formula 1 shift to more engine power, less electric for 2027 agreed - The Killeen Daily Herald",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWXBoc3RXZV9YQm5LazlQNzViamwwZG5FR05MdWVRX3drSFQ5eC1iN2FQeURvUjhmcm03U242UzBPcWNBcHdyenBSdVhhVVZIRXFRMjU2VHhOYTRYckkyU3hMMVZwVzl2aVNpcmVZUU5hZV81ZFhuSlVNMldvZnVGV1lfV2s2ZFk2bElFMVd4b2pPamRkbkZkcXppdzVhS2RhTGt0MldVRGJJQUw0Mzk3Z1gzWHhVaXFUN3J5eGpyaVZjYkNSR0R2UjRoMWVtM1RuSlZRWkZVVGJoS3BUeWdoeEtXcVkwU2l6bFVPWHJpMTl1QlU?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWXBoc3RXZV9YQm5LazlQNzViamwwZG5FR05MdWVRX3drSFQ5eC1iN2FQeURvUjhmcm03U242UzBPcWNBcHdyenBSdVhhVVZIRXFRMjU2VHhOYTRYckkyU3hMMVZwVzl2aVNpcmVZUU5hZV81ZFhuSlVNMldvZnVGV1lfV2s2ZFk2bElFMVd4b2pPamRkbkZkcXppdzVhS2RhTGt0MldVRGJJQU",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T18:56:13+00:00",
+    "published_sort": 1781117773.0
+  },
+  {
+    "title": "Every former Formula 1 driver on the 2026 Le Mans 24 Hours grid - Motorsport.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWRvSWc5Z2lQS0NpNDkzTl9XYUhpVExQUW54NlZmcVRISy1vMktoX0x6MU1kb1pCTFd0Sl9XdXJyNS0tRFM2MDV2RE1ScWVNTk1qYXd2S3lvUzB3bFg5TU9FWEtFU2lnV0w1emxLX2Y2Sld4XzVFUTlPWDdRNnFfMDhqR0t5alM1QVJ4MnFnMFk3MWkwcHRUd3E5Z01sQlBmMVVzNURRWXQ3dGlR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWRvSWc5Z2lQS0NpNDkzTl9XYUhpVExQUW54NlZmcVRISy1vMktoX0x6MU1kb1pCTFd0Sl9XdXJyNS0tRFM2MDV2RE1ScWVNTk1qYXd2S3lvUzB3bFg5TU9FWEtFU2lnV0w1emxLX2Y2Sld4XzVFUTlPWDdRNnFfMDhqR0t5alM1QVJ4MnFnMFk3MWkwcHRUd3E5Z01sQlBmMVVzNURRWXQ3dG",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T17:49:04+00:00",
+    "published_sort": 1781113744.0
+  },
+  {
+    "title": "F1's 2027 engine rule compromise revealed - The Race",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NWHR6RnBtajFFMmIwUHdIM1FUYkw5U0hfSmw3TmZDV0tqMF85SDQ2X2psX2RWWThibHBGOU9tNHhIYkdzbzRxYVNsYVUwMGJ6ZGp4LXR6U1ZWcDQ1YUhCWElzN0VoNDVtdExfT3ExNmdYNXZjMjlz?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5NWHR6RnBtajFFMmIwUHdIM1FUYkw5U0hfSmw3TmZDV0tqMF85SDQ2X2psX2RWWThibHBGOU9tNHhIYkdzbzRxYVNsYVUwMGJ6ZGp4LXR6U1ZWcDQ1YUhCWElzN0VoNDVtdExfT3ExNmdYNXZjMjlz?oc=5\" target=\"_blank\">F1's 2027 engine rule compromise revealed</a>&n",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T17:37:57+00:00",
+    "published_sort": 1781113077.0
+  },
+  {
+    "title": "Agreement reached on proposed F1 regulatory changes for 2027 and 2028 - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1BNNUQwSTJVcTVTOTh3WUZYdU00OFZaMTZSNk5ZaWNoRndXRnB5MmtodGpDTy1DWWpjY3pLWE5kUzdvVGpHWjFDUjN3MTN2bWRQeVlJZDFPV3FEbW1zU1Z6cWJ3QjBlSlNTNEc4alJsYmpyU3o3ZHZ1aVBCTzNRN2QzZDdDT1UxRmMyZ29ZV2FTTkREN3RlTEE3XzJYMW9RZWtoQ2htdkxKTmRNb2V0NUw4N2h4WldsUWViLU5ubXZNeVV4WFVISnNEcTFXT2c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1BNNUQwSTJVcTVTOTh3WUZYdU00OFZaMTZSNk5ZaWNoRndXRnB5MmtodGpDTy1DWWpjY3pLWE5kUzdvVGpHWjFDUjN3MTN2bWRQeVlJZDFPV3FEbW1zU1Z6cWJ3QjBlSlNTNEc4alJsYmpyU3o3ZHZ1aVBCTzNRN2QzZDdDT1UxRmMyZ29ZV2FTTkREN3RlTEE3XzJYMW9RZWtoQ2htdkxKTm",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T17:31:00+00:00",
+    "published_sort": 1781112660.0
+  },
+  {
+    "title": "China’s BYD aims to be world’s biggest car firm within five years - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmg1Z3A1R0lvVjNDTXlyVEZpZkhBZkpvQWpmdkQ5Ty1qa3NuUlpnQVgxUzdnZ2hvN2ZFQWJlMUhQd3NMeU1ndDdYVXlicW91M0Y4N0xmVlF5dlVFV0hiRGxWeXB2TVFua2FrMC02VlNBUU9kdDVsYnpuVkxXdlpBYVNxX2RkZWhISV93?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmg1Z3A1R0lvVjNDTXlyVEZpZkhBZkpvQWpmdkQ5Ty1qa3NuUlpnQVgxUzdnZ2hvN2ZFQWJlMUhQd3NMeU1ndDdYVXlicW91M0Y4N0xmVlF5dlVFV0hiRGxWeXB2TVFua2FrMC02VlNBUU9kdDVsYnpuVkxXdlpBYVNxX2RkZWhISV93?oc=5\" target=\"_blank\">China’s BYD aims to",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T16:53:00+00:00",
+    "published_sort": 1781110380.0
+  },
+  {
+    "title": "5 storylines we're excited about ahead of Barcelona - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeEtGaGNPR1h1VnJ1b3AwdUhCUm5sbl96LWRwczdHT0NrZ3d6SFVKTm5iYTVVUTAtS1ZpNENiNV9pQ3pEMllBZ1R6bmtHOVVfbDcxTGQwYmFjTFZ4QnA5eDJJWU84TVlQUVlfZTBRNFctRVFWcGs5VnR1dk5TWmp2UFBwdjFVSF93UExYTzhGTERLOWo0Wl9FUlpGQTMtbDUwS2xMa2tWM0JHWV9PaUZUQkZtOFZ3U01Ud0ZEdnVNbmxoMS1LZVd6ZGdvV05sNjh0WjlLaXJ2VzZUaGVYWkpiQ3oyTFZQSTJkTGVhaDc1cEZZQQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeEtGaGNPR1h1VnJ1b3AwdUhCUm5sbl96LWRwczdHT0NrZ3d6SFVKTm5iYTVVUTAtS1ZpNENiNV9pQ3pEMllBZ1R6bmtHOVVfbDcxTGQwYmFjTFZ4QnA5eDJJWU84TVlQUVlfZTBRNFctRVFWcGs5VnR1dk5TWmp2UFBwdjFVSF93UExYTzhGTERLOWo0Wl9FUlpGQTMtbDUwS2xMa2tWM0JHWV",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T15:53:00+00:00",
+    "published_sort": 1781106780.0
+  },
+  {
+    "title": "Racing Bulls' unveil football-inspired livery for Barcelona - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXJPSUhZVkVfNVFlNENTNUlOWk44YU9ERF8wbWI1emhFX3p0UERGTjZGb2gwR0Z6N0Rhd2NjMjM0YWtLcDdUTDlodW9INUhEeFBja2pfVmlwYjN4TWtZSHZ3WVpfTmU2dmRGc1BrYW9aWU80bnJWUEYyMEFkakI5a0dMelJ0em5aVDRaLVp3Ym9QOGQxdG5zX0wzdlQweTZDczZCQkJhNUc4UUxxNXBkT2pfMGF2Z3hzWkpkUWEyQnVhLVBYV3JVMmZlUUh5amdPUFJ0Tkx1ZDkzQQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXJPSUhZVkVfNVFlNENTNUlOWk44YU9ERF8wbWI1emhFX3p0UERGTjZGb2gwR0Z6N0Rhd2NjMjM0YWtLcDdUTDlodW9INUhEeFBja2pfVmlwYjN4TWtZSHZ3WVpfTmU2dmRGc1BrYW9aWU80bnJWUEYyMEFkakI5a0dMelJ0em5aVDRaLVp3Ym9QOGQxdG5zX0wzdlQweTZDczZCQkJhNUc4UU",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T15:23:00+00:00",
+    "published_sort": 1781104980.0
+  },
+  {
+    "title": "Herta's debut and more: Every F1 practice rookie at Barcelona - The Race",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHcwaEtjMkl2LVRRbTVjN1c4QS1FbnRsNHBYOWozbkNkaVRBalNBRFFhb1hsZWRLbktwcHlad2tWZEIyNS1ET19Fd0k1Q2NMbUI3QzZTR0YtTTJsdTFKRUxtZ2FMRHMwUHZiMlJpOElmV2FaZm1Dc1p6eWZVOEljWnp5Y0NxX1Z0?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHcwaEtjMkl2LVRRbTVjN1c4QS1FbnRsNHBYOWozbkNkaVRBalNBRFFhb1hsZWRLbktwcHlad2tWZEIyNS1ET19Fd0k1Q2NMbUI3QzZTR0YtTTJsdTFKRUxtZ2FMRHMwUHZiMlJpOElmV2FaZm1Dc1p6eWZVOEljWnp5Y0NxX1Z0?oc=5\" target=\"_blank\">Herta's debut and more:",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:35:18+00:00",
+    "published_sort": 1781098518.0
+  },
+  {
+    "title": "Inside Magna’s smart factory fight for competitiveness - Automotive Manufacturing Solutions",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalZqNTRRdEE0c3k0Y1F6UEotcC1VTVoyMWc2S3c2M0gzOHBXbjZTRXNsQjNMQVAyRmVFWmxKX1BrZWVMcE1FdTN5d0NrVVlSaWVPT2licFNiUFNoV2dSbjV0WjdWUXBPOUhjQWhxYW50aGdIYW1aOEloWEFYekNJc1c3TFhZZTRBdUxqeERBTVZ5X0Z3SWlmVXd3YWNJT1Rsd2xjbUZiR1FZQ3cxVVR3NjY1UGQ0UHEyNWFhMWZMMGdDblU?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalZqNTRRdEE0c3k0Y1F6UEotcC1VTVoyMWc2S3c2M0gzOHBXbjZTRXNsQjNMQVAyRmVFWmxKX1BrZWVMcE1FdTN5d0NrVVlSaWVPT2licFNiUFNoV2dSbjV0WjdWUXBPOUhjQWhxYW50aGdIYW1aOEloWEFYekNJc1c3TFhZZTRBdUxqeERBTVZ5X0Z3SWlmVXd3YWNJT1Rsd2xjbUZiR1FZQ3",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:28:54+00:00",
+    "published_sort": 1781098134.0
+  },
+  {
+    "title": "Stellantis’ China gamble could reshape America’s auto industry forever - CBT News",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XbndNbDRNRDlRYUpCbWR0Qzkzb2xJdDlxREE2VWdHU0NIZ211V0xOTjNyUGdCcmk2c20xVFp1TksxZTltUXhka25IR0dCbFIxRWUySFJxNmhHRUFVOU5RZlpxckcxN1k0M2VVNTdzZjlZYWV1ME5lRFZR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1XbndNbDRNRDlRYUpCbWR0Qzkzb2xJdDlxREE2VWdHU0NIZ211V0xOTjNyUGdCcmk2c20xVFp1TksxZTltUXhka25IR0dCbFIxRWUySFJxNmhHRUFVOU5RZlpxckcxN1k0M2VVNTdzZjlZYWV1ME5lRFZR?oc=5\" target=\"_blank\">Stellantis’ China gamble could reshape Amer",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:26:58+00:00",
+    "published_sort": 1781098018.0
+  },
+  {
+    "title": "Valentina Varini Is The New President Of The Automobile Dismantling Association - Auto Recycling World",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmJUN3BsR3k1Q0ZUUTZ3R3ZzZVNHUUstdjZtdmcxUkozUy1QRHdWV282OGFoaldNbnJkQU9WWWM1UVNPVnotMEdFZ1JROXE4NDJlcW0wSkhJOWtDZ1hxNTZ6OUJiZmd3aTMzYnd1WjlaNFBJMDlsZlNRQ2xJaFpZRmJOVjNmM3pINy16dUxhcGs5dG5xV3VSSXpNcUNnZ3U5VnRrWUdSMzNxMDI3VXYtNA?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmJUN3BsR3k1Q0ZUUTZ3R3ZzZVNHUUstdjZtdmcxUkozUy1QRHdWV282OGFoaldNbnJkQU9WWWM1UVNPVnotMEdFZ1JROXE4NDJlcW0wSkhJOWtDZ1hxNTZ6OUJiZmd3aTMzYnd1WjlaNFBJMDlsZlNRQ2xJaFpZRmJOVjNmM3pINy16dUxhcGs5dG5xV3VSSXpNcUNnZ3U5VnRrWUdSMzNxMD",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:26:34+00:00",
+    "published_sort": 1781097994.0
+  },
+  {
+    "title": "Races on TV, June 10-14 - RACER - Racing News",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS1BOeW12dkV4clQwNUUtdjlCbE1faFluc1FNYXVQZ2swVVRKd3l1V3ZNdXVZSW1kQm1ITUhtVmxVb1ZleXZLLXdGTklyTVZaejN1QWZydlc5MWxnZHFIeQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS1BOeW12dkV4clQwNUUtdjlCbE1faFluc1FNYXVQZ2swVVRKd3l1V3ZNdXVZSW1kQm1ITUhtVmxVb1ZleXZLLXdGTklyTVZaejN1QWZydlc5MWxnZHFIeQ?oc=5\" target=\"_blank\">Races on TV, June 10-14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RACER - Racing N",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:14:00+00:00",
+    "published_sort": 1781097240.0
+  },
+  {
+    "title": "MY FIRST RACE: LANDO NORRIS - McLaren",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0RktfeTdvZG5uM2U4Z2hia3BEeTktOGdFalVHbUJUaXZfUmlBUERXamFteUg1OExwOWxiWGZpRTZRdE90Ni1WZElqRG03U00wUnhXc3ZVM045aVlJVmc2OFdzdlJsV2QxYjdOMTgzTzVsNWlGY2ZuQllDMFluUQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA0RktfeTdvZG5uM2U4Z2hia3BEeTktOGdFalVHbUJUaXZfUmlBUERXamFteUg1OExwOWxiWGZpRTZRdE90Ni1WZElqRG03U00wUnhXc3ZVM045aVlJVmc2OFdzdlJsV2QxYjdOMTgzTzVsNWlGY2ZuQllDMFluUQ?oc=5\" target=\"_blank\">MY FIRST RACE: LANDO NORRIS</a>&nbsp;",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:10:00+00:00",
+    "published_sort": 1781097000.0
+  },
+  {
+    "title": "MotoGP could switch to Formula 1 two-by-two grid layouts in major rule change - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0lBZGY1RW5fajkteDV4ZTBGcjNKcTFmU2JIWFl3aGpmMS1ZTW55OVdqUXkzbUJ4T0hid29sVWx5Rkp3RTc5NzIwTzhzRnhUMlAxbkd4YXhrQmMybUZHSkxkcUZSbTRwU0EtMzdua2Z5NzdlTEdvSlI5SThaZFF4eEFUS2g?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0lBZGY1RW5fajkteDV4ZTBGcjNKcTFmU2JIWFl3aGpmMS1ZTW55OVdqUXkzbUJ4T0hid29sVWx5Rkp3RTc5NzIwTzhzRnhUMlAxbkd4YXhrQmMybUZHSkxkcUZSbTRwU0EtMzdua2Z5NzdlTEdvSlI5SThaZFF4eEFUS2g?oc=5\" target=\"_blank\">MotoGP could switch to Formu",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T13:05:00+00:00",
+    "published_sort": 1781096700.0
+  },
+  {
+    "title": "How pandemic car shortages are still making new and used cars expensive - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc1RXd2U3Mi1ENjVFMGdhaV82blMzTWRsLUQwbi1PM2lnS1lOR1FiVi1SaXd5LXdLbkhRTEVBT0dISlR4b3RHdEN6NDZqS19YbzByellXcHVjM2wyTmFzeTNMVWF1SWhY0gFuQVVfeXFMTXBhVWtMZjFERm45T29IV19FWWZuVjJ0VzZSUHZnbzNMN1dhaTZqNkRyWlhMVVNrSGJ2ZG5JNTdnWmtKMVFFOGtfbnVVaENVd1BMRHAtYlptZGRCWEZUQ01QVXVSTkVVUGxVYUFORnc?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVc1RXd2U3Mi1ENjVFMGdhaV82blMzTWRsLUQwbi1PM2lnS1lOR1FiVi1SaXd5LXdLbkhRTEVBT0dISlR4b3RHdEN6NDZqS19YbzByellXcHVjM2wyTmFzeTNMVWF1SWhY0gFuQVVfeXFMTXBhVWtMZjFERm45T29IV19FWWZuVjJ0VzZSUHZnbzNMN1dhaTZqNkRyWlhMVVNrSGJ2ZG5JNTdnWm",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T11:00:02+00:00",
+    "published_sort": 1781089202.0
+  },
+  {
+    "title": "BYD chairman says firm will be world's biggest automaker in 5 years as shares slide - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVhhUWoxOVBJMVM3VUJxUFZQZWhxOUdvYXFEaDFqWEZhZHE3b0pCRXVPYUhpRmUzY2RtSnNSWm9kWG1MODQ2R2N0V29Md050R011UTFFWjA3dUZHeTVVaVVfdWFtc25WYnlTR3lGbnJkMmR1VUVrSHkxcXFackJWM3BRc3U1QjE4bTZyM2lPYThuNllaLU9TcUdwZDloM28xNjRrVG5wNEFxeDc3SjhIQVdsVDg4ekdNdVB2TGxPQUxIUVBnWWlONldWQTBUaHFWRlh5bzNYaFZTZw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVhhUWoxOVBJMVM3VUJxUFZQZWhxOUdvYXFEaDFqWEZhZHE3b0pCRXVPYUhpRmUzY2RtSnNSWm9kWG1MODQ2R2N0V29Md050R011UTFFWjA3dUZHeTVVaVVfdWFtc25WYnlTR3lGbnJkMmR1VUVrSHkxcXFackJWM3BRc3U1QjE4bTZyM2lPYThuNllaLU9TcUdwZDloM28xNjRrVG5wNEFxeD",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T03:53:00+00:00",
+    "published_sort": 1781063580.0
+  },
+  {
+    "title": "The beginner’s guide to the 2026 Formula 1 regulations - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5hUnd4aUxCeHpNcTNuYmxZcDdBVW1GTjRPZTZVZF9RSzZ5dEc5Ynhma3F5aDlkQ1lENXgzY01LdUZBWXJLdVhnSFFxajJLNmVEeGZnd256OFVmalpqUlVKYS1ONk10RTlCeDZMVmFDQTN3cFJBbExXdV9rTjZYRXQxSlFJRW8xN3FPQS1xbGo4dUVuWmd5SFl0bXhoOVRSaE1vOFBGdU50UU95VHc?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5hUnd4aUxCeHpNcTNuYmxZcDdBVW1GTjRPZTZVZF9RSzZ5dEc5Ynhma3F5aDlkQ1lENXgzY01LdUZBWXJLdVhnSFFxajJLNmVEeGZnd256OFVmalpqUlVKYS1ONk10RTlCeDZMVmFDQTN3cFJBbExXdV9rTjZYRXQxSlFJRW8xN3FPQS1xbGo4dUVuWmd5SFl0bXhoOVRSaE1vOFBGdU50UU",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-10T01:28:29+00:00",
+    "published_sort": 1781054909.0
+  },
+  {
+    "title": "Pontifications: Automotive industry shifting to services, following aerospace - Leeham News and Analysis",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0pMU1J1TmJ1VTFLTkkwUVptWUNJY0pwMkFndzJJQmtTY0RYVGxNVVRfT29oaWUxTi02T3RRRVNsM0ZoZVVjdy1xWE1FVHE3TXNTUlZ6elFUN0tGZVNNSzFvRkhoU0FkRmZwQVFMWWVzN0c2dkgwQ2hLX1I2d0diYTFJVzFYSmo3WFpLY3BxMWNXbEt5Y1JOZWlHMUxjU2R6eFlmc09lQ25sV3dRN2M4?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0pMU1J1TmJ1VTFLTkkwUVptWUNJY0pwMkFndzJJQmtTY0RYVGxNVVRfT29oaWUxTi02T3RRRVNsM0ZoZVVjdy1xWE1FVHE3TXNTUlZ6elFUN0tGZVNNSzFvRkhoU0FkRmZwQVFMWWVzN0c2dkgwQ2hLX1I2d0diYTFJVzFYSmo3WFpLY3BxMWNXbEt5Y1JOZWlHMUxjU2R6eFlmc09lQ25sV3",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-09T14:34:23+00:00",
+    "published_sort": 1781015663.0
+  },
+  {
+    "title": "What time is the 2026 Barcelona GP and how can I watch it? - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV3lja2xqZS1UWGJQY1lYSmVGeGdJXzVhVTNFSXRpRWE3S2k2cjFnLWF2a0FSTVphQ1dxTkZ1cDBuSHdiX3ZsaExFQ0JHLVpWanhiQ282enlUTmszZFQxcHBPT0RlYXhiUkpZX1NGN2Fod083SXFONXg2YmNNeEFFREVVdE1KdmVabGhBTTl2Nkc3VHZRV1A4NzFBSFZSbm1lSDB0dlVOSUIzMTNoc0dTS0gySVhfbUE1R2R6Tk84TmNNdkx4RS16U1V5LVRyRGFYbndNRW81dkhrcXEtZ1NEUFlNNFc1dw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV3lja2xqZS1UWGJQY1lYSmVGeGdJXzVhVTNFSXRpRWE3S2k2cjFnLWF2a0FSTVphQ1dxTkZ1cDBuSHdiX3ZsaExFQ0JHLVpWanhiQ282enlUTmszZFQxcHBPT0RlYXhiUkpZX1NGN2Fod083SXFONXg2YmNNeEFFREVVdE1KdmVabGhBTTl2Nkc3VHZRV1A4NzFBSFZSbm1lSDB0dlVOSUIzMT",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-09T14:15:00+00:00",
+    "published_sort": 1781014500.0
+  },
+  {
+    "title": "Opinion | China’s EV giants are breathing new life into Europe’s ailing car industry - South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUTVqam9NOWQ3Y05fdEQwdkdLSTBzdkFuWjJvcFFYNTREM3NieEV0UENaU2hKaWFfdHQ4Qlo3WXZ2amVfUjNfNTBtSV9ERURRbU9OWVdmbzFkUDVGVV9YUV9HZWhCbzNyajJaZFVIclNWaUFfSXBwUEdGMFVFa3JpSFItZklwSDJMUkdEZi1jVktlUk85d0xiVkhGSDFQN1NoRUd0UXlLLTJJYTdFRmlubjNfOVBFVTJKYzhlbS15ZW1QUEZB0gHEAUFVX3lxTE8zN3ZTZGF2OFlDLWU3V2ptRk5ZVjF0WVd0X0tmbXY2aWpNNEpNX09ELUdOQUd1QXlZVEppMHlZRWh0VlY4VGk0N2phYmx3NElhR21hbWt6SjdIQnV3ZmJSWXlaMDlrdk5QYWV2WXVTMVg5SkxuUDB6T3ZXcUU2aU1iLU5TYlp2a3gwUzZNc1VscnBUODFEZmtXYUNlNkE4eDRnRDlHWElrdzVKckQteFNkMlJ0Z2tlZ2lKTHRlbGs0SkJmbjY?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUTVqam9NOWQ3Y05fdEQwdkdLSTBzdkFuWjJvcFFYNTREM3NieEV0UENaU2hKaWFfdHQ4Qlo3WXZ2amVfUjNfNTBtSV9ERURRbU9OWVdmbzFkUDVGVV9YUV9HZWhCbzNyajJaZFVIclNWaUFfSXBwUEdGMFVFa3JpSFItZklwSDJMUkdEZi1jVktlUk85d0xiVkhGSDFQN1NoRUd0UXlLLTJJYT",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-09T12:30:06+00:00",
+    "published_sort": 1781008206.0
+  },
+  {
+    "title": "Only 1% of new cars still come with a manual transmission. The automaker betting on saving it isn't Porsche or BMW, it's Subaru, and it just promised three new ones - Autonocion.com",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWFNqMG0tZnYxelJTOXFqQnBLN1NLVWpCMHNPTk9zUkJ3X04yb0ZMeDFNM1lPTmJ0eXBBUFFIdWt3QVNselNQUFpRX1pZQVdFd1lFUDZ2RHBCeTNLMVBpSF9CQTFoUQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWFNqMG0tZnYxelJTOXFqQnBLN1NLVWpCMHNPTk9zUkJ3X04yb0ZMeDFNM1lPTmJ0eXBBUFFIdWt3QVNselNQUFpRX1pZQVdFd1lFUDZ2RHBCeTNLMVBpSF9CQTFoUQ?oc=5\" target=\"_blank\">Only 1% of new cars still come with a manual transmission. The automa",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-09T12:00:11+00:00",
+    "published_sort": 1781006411.0
+  },
+  {
+    "title": "An invisible invasion: Chinese automakers maintain small, stealthy U.S. presence - Automotive News",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13ZW9xR2pqa2lDSDlscnBrSHlJTWlsVGh1WTBNdU9fbHJSV29mYzlfLVV1TS1JNWQ2dzIyUFFEMEl1djM5NFA3anRxZDk0d1R0SVk2MFRPYTBxUWZwUVhGakdrRXc5b0JqeXZHTkt2akNhNThKQ0E?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE13ZW9xR2pqa2lDSDlscnBrSHlJTWlsVGh1WTBNdU9fbHJSV29mYzlfLVV1TS1JNWQ2dzIyUFFEMEl1djM5NFA3anRxZDk0d1R0SVk2MFRPYTBxUWZwUVhGakdrRXc5b0JqeXZHTkt2akNhNThKQ0E?oc=5\" target=\"_blank\">An invisible invasion: Chinese automakers mainta",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-09T11:00:00+00:00",
+    "published_sort": 1781002800.0
+  },
+  {
+    "title": "Anti-racing or ingenuity? Monaco's hold-up tactics might be in F1 for good - Motorsport.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2JPRmh5Q2xtSkJTeEVYQzN6bGZJWE1ULVBPSlM0SzZPRE1kTFhrUUZPUnUyN1hoUm5jMElpQ3Q0eXNVYVRKZFJNcDI1MlZmd2s2M1h6YlFub0FpMXdnanNvVDJSVzdfTjJ4dnZqZFE4SVN0c3U0UV9PSGh0VVVHcF83VFd0SC1sRnJmTlZ5VDJLOUlMOURWZjJMRnZyS1oxcl95Y0F5emNjcnEtMkpQSmIyZ09XNWN5?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2JPRmh5Q2xtSkJTeEVYQzN6bGZJWE1ULVBPSlM0SzZPRE1kTFhrUUZPUnUyN1hoUm5jMElpQ3Q0eXNVYVRKZFJNcDI1MlZmd2s2M1h6YlFub0FpMXdnanNvVDJSVzdfTjJ4dnZqZFE4SVN0c3U0UV9PSGh0VVVHcF83VFd0SC1sRnJmTlZ5VDJLOUlMOURWZjJMRnZyS1oxcl95Y0F5emNjcn",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-09T07:55:27+00:00",
+    "published_sort": 1780991727.0
+  },
+  {
+    "title": "F1 Glossary – the language of Formula 1 - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazQ2UGxuSnhuMFFOd2xNR2pWeWZrcFhFY1ltZWwza2R1bThaUFF6X3RIOVVzWi02eVdISllfM2Ffb0hRbWtONmkyRmE0VmhKdHEwbWRuUE5rY3BLRUIwbEhJZlBFaXZfY2EtMU5NOS1ETjRGZXQya3hrMWxUS25YVHkzMHdwUVRY?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazQ2UGxuSnhuMFFOd2xNR2pWeWZrcFhFY1ltZWwza2R1bThaUFF6X3RIOVVzWi02eVdISllfM2Ffb0hRbWtONmkyRmE0VmhKdHEwbWRuUE5rY3BLRUIwbEhJZlBFaXZfY2EtMU5NOS1ETjRGZXQya3hrMWxUS25YVHkzMHdwUVRY?oc=5\" target=\"_blank\">F1 Glossary – the langu",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-08T18:23:54+00:00",
+    "published_sort": 1780943034.0
+  },
+  {
+    "title": "8 moments you might have missed at the 2026 Monaco Grand Prix - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkx0WHhrS2xSMnNoemVuLXhHWkxFb2UtUE9HWGc1QTdZSE9ra05SWm1mZUYzbTNNRTZ3WkdPc1ZkNHdoaUpuVzNyM0k3dWRGTlNmMFpQN0QxWDg0QzZaNmxFVWU1T2J3c3N6Nm9zT1V1YTJzaTl6Z0VWTG5vMnlMS0VSbFlCX1pCRzhLaFFRajlBNXdraVRoWEw3SG1PYkl0c3NuV0pEbXdqZXc4VnJ2elhpN3o2dw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkx0WHhrS2xSMnNoemVuLXhHWkxFb2UtUE9HWGc1QTdZSE9ra05SWm1mZUYzbTNNRTZ3WkdPc1ZkNHdoaUpuVzNyM0k3dWRGTlNmMFpQN0QxWDg0QzZaNmxFVWU1T2J3c3N6Nm9zT1V1YTJzaTl6Z0VWTG5vMnlMS0VSbFlCX1pCRzhLaFFRajlBNXdraVRoWEw3SG1PYkl0c3NuV0pEbXdqZX",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-08T15:25:00+00:00",
+    "published_sort": 1780932300.0
+  },
+  {
+    "title": "3M innovates to help the automotive industry navigate what's ahead - 3M News Center",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUIzMDFXVkZIazFsMkJ1cDhSTmxNdHRDN2VpR0VBeXk0bHE3NldlVTdGdldUQnFhamlXaWpIUi1ZZ1lSOWtGZWhFMzBNV204TmFlWXJCVW1tMEJkeTJVVUtsN3hiMDlsZWlaMXl5ZXJRd2R5dXlrVGdmZHhZN3dreGdEUlVWUGlIUUdlZy13?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUIzMDFXVkZIazFsMkJ1cDhSTmxNdHRDN2VpR0VBeXk0bHE3NldlVTdGdldUQnFhamlXaWpIUi1ZZ1lSOWtGZWhFMzBNV204TmFlWXJCVW1tMEJkeTJVVUtsN3hiMDlsZWlaMXl5ZXJRd2R5dXlrVGdmZHhZN3dreGdEUlVWUGlIUUdlZy13?oc=5\" target=\"_blank\">3M innovates to",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-08T12:43:45+00:00",
+    "published_sort": 1780922625.0
+  },
+  {
+    "title": "Will high gas prices change auto industry again? - Jefferson City News Tribune",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnd4SklXN0JMMm5RWUR5cnF2LWp1OUdEakJsUlhNRVdwRlJVZlNMejNON18xYmpiQ2ROUVRZMEdhMzZvQkJmYUJPeTNOX0tuRm53YVdHX2R0UlQwVlU0ekpna1EyWWhxVk1HSGhOVkdGSjREZlVxNHBfNzVDZjFTX0VaY01iQ0NLRnVBNjBDWW1JQ2xrSGNOaA?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnd4SklXN0JMMm5RWUR5cnF2LWp1OUdEakJsUlhNRVdwRlJVZlNMejNON18xYmpiQ2ROUVRZMEdhMzZvQkJmYUJPeTNOX0tuRm53YVdHX2R0UlQwVlU0ekpna1EyWWhxVk1HSGhOVkdGSjREZlVxNHBfNzVDZjFTX0VaY01iQ0NLRnVBNjBDWW1JQ2xrSGNOaA?oc=5\" target=\"_blank\">W",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-08T09:00:00+00:00",
+    "published_sort": 1780909200.0
+  },
+  {
+    "title": "Las Vegas signs 10-year extension for Formula 1 race - Field Level Media",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3dPYm9UeFNRQk9pOGtHUDl3bDBuNkJWV3ViTkp4UHlKdWV6anhraklUdXljVG01T3pGM19GdUtUQ0JCYnI2ZU9NMURvT3RGWkJkUHFPanB0cmNhU3BIU0MwU2FXeHh0S184MFdrT1NFQUJhS1lHNW9sb3JvRy16cDZDUmZWRmh0TTBOUTcxTkdzaHkxMlE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3dPYm9UeFNRQk9pOGtHUDl3bDBuNkJWV3ViTkp4UHlKdWV6anhraklUdXljVG01T3pGM19GdUtUQ0JCYnI2ZU9NMURvT3RGWkJkUHFPanB0cmNhU3BIU0MwU2FXeHh0S184MFdrT1NFQUJhS1lHNW9sb3JvRy16cDZDUmZWRmh0TTBOUTcxTkdzaHkxMlE?oc=5\" target=\"_blank\">Las ",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-08T07:00:00+00:00",
+    "published_sort": 1780902000.0
+  },
+  {
+    "title": "Antonelli secures brilliant victory in chaotic Monaco GP - Formula 1",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaXFPOXVnTDctdnd3UDR5S0hKMEpQb1RMSkMtS3lYVVBETXd5YXN5NEQ3Q3B5dFkxVmRSX3dpdkpYOGFVUVMxM0lobDB5aFRYOTNGaFJNT2E3ZHlvSzZtQlVsQnVIMFZqM2o4cUVYUEo0b191cldSZlhXU3duQWN5VWJiYlVfNXpvaThzVDJOb3R5VEJpUUlVZkVFNnRmNjJPdUpqRjBOS0FQQllJOUhLNllXdVNDVFFqY2IyeEZxYXZfa2p6Q0c3NDdMbUFUUG1oVDYtLXlGNVNlaWI1ZEIwVUFwcTUybHQ5TnVNeXJtMEZDRHdH?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaXFPOXVnTDctdnd3UDR5S0hKMEpQb1RMSkMtS3lYVVBETXd5YXN5NEQ3Q3B5dFkxVmRSX3dpdkpYOGFVUVMxM0lobDB5aFRYOTNGaFJNT2E3ZHlvSzZtQlVsQnVIMFZqM2o4cUVYUEo0b191cldSZlhXU3duQWN5VWJiYlVfNXpvaThzVDJOb3R5VEJpUUlVZkVFNnRmNjJPdUpqRjBOS0FQQl",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-07T15:40:00+00:00",
+    "published_sort": 1780846800.0
+  },
+  {
+    "title": "Monaco Grand Prix 2026: Race start time, how to watch, full schedule, predictions - ESPN",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPalU4cGlweVZqQWthRmgzMUg3OE5zRzdGeUVGWHhGc0NOc0ppbWFUYzk4UGZWU3RGUFBVVTBfblhsbTlMTEQ1YmQ1elNPeUx1dEsxbk5mdzdDd3BOMm1kVTZWZW9tMG9sZ0d6Y2lBNkZ1cnd3SkYxTmF6anBoQ0dBWjdGUWNfTGQ3bHlwZ2t2azQ3WUpkOVRKSmxMZXdDRFNUOTRPWGJkMW9qMFh5VE1Lbl9Pcy14MC1hYzBtTmFQY2pGeWtKdzRHZ3doWEY0VmNOejV6UHQyOFdFVkZ2c2NYaDR3?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPalU4cGlweVZqQWthRmgzMUg3OE5zRzdGeUVGWHhGc0NOc0ppbWFUYzk4UGZWU3RGUFBVVTBfblhsbTlMTEQ1YmQ1elNPeUx1dEsxbk5mdzdDd3BOMm1kVTZWZW9tMG9sZ0d6Y2lBNkZ1cnd3SkYxTmF6anBoQ0dBWjdGUWNfTGQ3bHlwZ2t2azQ3WUpkOVRKSmxMZXdDRFNUOTRPWGJkMW9qMF",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-07T11:17:00+00:00",
+    "published_sort": 1780831020.0
+  },
+  {
+    "title": "A-Levels First, Monaco Next: Yevan David Set for FIA Formula 3 Return This Weekend - Newsfirst.",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3VzR0hnT1BDYUNhQ2VrVDZobmVjMnppeWpXeGRPcldYZnJjbVZFdjZVZnJUdm1EMk5YOEZjaW51bGJLdjV4ZDNIWXVsZEgzcm5Qbkk5YmtUZFpIUXhXbUs0QjYyS2NGZzRtaU1IQURWSGZrZ1dselZQck1CLVBKdDFBZUgyM2h6M3FCQmJQNXJ4UUdGNDEtQXNoS3M3XzJHS3NPSkZmUlZhQXM2VVdERG4xWFBTWlE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3VzR0hnT1BDYUNhQ2VrVDZobmVjMnppeWpXeGRPcldYZnJjbVZFdjZVZnJUdm1EMk5YOEZjaW51bGJLdjV4ZDNIWXVsZEgzcm5Qbkk5YmtUZFpIUXhXbUs0QjYyS2NGZzRtaU1IQURWSGZrZ1dselZQck1CLVBKdDFBZUgyM2h6M3FCQmJQNXJ4UUdGNDEtQXNoS3M3XzJHS3NPSkZmUlZhQX",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-05T06:41:00+00:00",
+    "published_sort": 1780641660.0
+  },
+  {
+    "title": "Used cars turn to gold as Sri Lanka economy skids on the edge - Digital Journal",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0s5MDhSMzNsRW4xVF9YUTZoV1B0eE1TTWhOSGhwZ1JjZk5KUTNvVUdPZ3ZpcGlzV1hUTUI3SFJWRUktV3dXOGpiVDZ6Zzk0anFGMTBUNmFvb1JvR1c2TEw3Rzc5NjcxRUFGaDhDWjQtVmNkZ3U3ekd4UE9kVjEzU2NQcXVqSEpzR0JXcXZmWXRnbG9GOUw3cl9vMk4wa1c1alpB?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0s5MDhSMzNsRW4xVF9YUTZoV1B0eE1TTWhOSGhwZ1JjZk5KUTNvVUdPZ3ZpcGlzV1hUTUI3SFJWRUktV3dXOGpiVDZ6Zzk0anFGMTBUNmFvb1JvR1c2TEw3Rzc5NjcxRUFGaDhDWjQtVmNkZ3U3ekd4UE9kVjEzU2NQcXVqSEpzR0JXcXZmWXRnbG9GOUw3cl9vMk4wa1c1alpB?oc=5\" tar",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-06-03T01:52:19+00:00",
+    "published_sort": 1780451539.0
+  },
+  {
+    "title": "Volkswagen enters Sri Lanka with the launch of Taigun and Virtus - Team-BHP",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnYzeEIxbTAzM1YzVW4xdzgxNjYzbEVCcWsxNUtBbV9SREFNMkJkQl80RHJmT0JhZUF1WmlSREJ0Rm9QQzVkeUtaY3p1T3prWmdtODRUQV9zbHR5Y2I0ZVZkRUE2V2VEdkdubWFJeFdWN3ZPSG1OWkN5NUhNYVc3R1BFbDhZXzZaaVHSAY8BQVVfeXFMUFdwYVpMcHMtM3A0cVZZZGlmR3ZqSkJkajJ1bS1zVEVsa25hTkRPZUIyYWt0TjZiM01SbjdIbUtzYTFHUWoyNUU2ZC0tS0Z2S1Y2RnpsUE51Z19OYzFDaUxBU2RMWkh5RThZc0tPU0RQaVNxOF9KQ1lVcklKRkRCT3ptYTd5dUpfQ1ZxQnQ4TWM?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnYzeEIxbTAzM1YzVW4xdzgxNjYzbEVCcWsxNUtBbV9SREFNMkJkQl80RHJmT0JhZUF1WmlSREJ0Rm9QQzVkeUtaY3p1T3prWmdtODRUQV9zbHR5Y2I0ZVZkRUE2V2VEdkdubWFJeFdWN3ZPSG1OWkN5NUhNYVc3R1BFbDhZXzZaaVHSAY8BQVVfeXFMUFdwYVpMcHMtM3A0cVZZZGlmR3ZqSk",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-05-29T07:00:00+00:00",
+    "published_sort": 1780038000.0
+  },
+  {
+    "title": "Over 9,400 LCs opened for vehicles in one day after Sri Lanka imposed 50% surcharge: Official - EconomyNext",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWxWS1llc1EyWk52THpKSDBENTQ1UTlQTnR6Tk9GMnk4ZzZ5UHp4cDZta2M4T0FKVElEQUNwblJRb19zV3MyUDRLbG11amFaeUhrc3ZjYzdLX1poeC0wYTNsVzBNMjR1VnN3d1QyNV9RSU1XRU9rN0N5ejM5YWZxdk8za3RVTEF4Q2JhQTRSX3N1NGI5V3FFUS14R25DYUQyQUQ4Mkt6UUpWYldtOFZ1Y2tDaWZIMUFZby1PQWJHQQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWxWS1llc1EyWk52THpKSDBENTQ1UTlQTnR6Tk9GMnk4ZzZ5UHp4cDZta2M4T0FKVElEQUNwblJRb19zV3MyUDRLbG11amFaeUhrc3ZjYzdLX1poeC0wYTNsVzBNMjR1VnN3d1QyNV9RSU1XRU9rN0N5ejM5YWZxdk8za3RVTEF4Q2JhQTRSX3N1NGI5V3FFUS14R25DYUQyQUQ4Mkt6UUpWYl",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-05-22T07:00:00+00:00",
+    "published_sort": 1779433200.0
+  },
+  {
+    "title": "Sri Lanka imposes 50% surcharge on car imports to protect currency from further slide - The Hindu",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1dNYTB4ODluOWk2SnZBSkZQVzlrWlhib0pnZlRiaDREUVlWY0ZxZk9xWUNSdGN3YVNjOEdUTHd5aERYUnlxM3RwQjZINlNBOVgtTnpHa2t4ODc0aVhTMUJQZEdxdHphZUxuZXNnRjlKcXRpWkx4TEduUEIwOG80SG5Udm5QZGpvNWlHYWlucm9yYXVzSVgzNVZlWW51QmMxc24ycXBMVG82blZrc0dEU2JJVjJBYkF1X2hDV3VnQ1ktVkhaSC1hb1lzZ1dybHJib2tuWmppc1RLX1I3YVFROV9R0gHoAUFVX3lxTE5XYmcxaXAtVzFhaUNOUEpCNC1udFJqTldSdzhKU2QxSXNXOFM1QTBmcUQwaUdIT1RaZTFHaS0tc19zTndBVXdGVUduLWNXMmF4TmZzam1weHI1VkdIWHZUMjROekNRRTJJbkl0cW41SGpCdHNYNGp1U29SN3VuTjV4ZWxjX2VWVDV4QnM3MFFQUFJhbG5iSU1XemxGSGl4REN6NW84eF80ZmprcW9iZXhfMWdxLUNUVW9fdUdsU1p6U0h2aXJfN1hsOGFNdC1ibnNRZVU4SlJ5UHFtY2p3bzFKaE5rcWotd3c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1dNYTB4ODluOWk2SnZBSkZQVzlrWlhib0pnZlRiaDREUVlWY0ZxZk9xWUNSdGN3YVNjOEdUTHd5aERYUnlxM3RwQjZINlNBOVgtTnpHa2t4ODc0aVhTMUJQZEdxdHphZUxuZXNnRjlKcXRpWkx4TEduUEIwOG80SG5Udm5QZGpvNWlHYWlucm9yYXVzSVgzNVZlWW51QmMxc24ycXBMVG82bl",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-05-16T07:00:00+00:00",
+    "published_sort": 1778914800.0
+  },
+  {
+    "title": "Sri Lanka imposes 50% surcharge on car imports to protect falling currency - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMUFlUWxBc0NqSTZnM1ZMb1k1NGlDTkNfeVZCaFBhbVB4ZUlPTXgxOXhkd2ZXa1lQWVB3TGFfNGFPS0xva1daYWVqcHpMWmE2czhaMldLZHpBRmlQMjFLcUVKX00wUkd1Q0JRWHV3MmpmQUtncVBqbGNqaHdreGlYMW1WalkxbUpFR1N6MHc5c1BaU0VVbGpYMDEzQ0FsbkthZGh1ZmF5MlBQVlJsNWJSNURuWExSaTc5amQ0MmlBN0dqVzJFam9RNnctRXlvcjk5eEpTMdIB2gFBVV95cUxQVk9YcWI4QUd1WVVwTUYtUkZ5M2d6TzRTWDJHR0k2RGxIeTdIeXd2T3J6OXlWTEcxMjRZdXZwQnIybEdCYkQ5X1lzb2tlako0TmgwcW1tSFFEMFozVy1pWmNkRHBxMlE3bVpVTUtWandBZVdrN3pFV0FSUWVnYWJuSEdxMkY3Y0dwak45YnpTQmlKcmFkU2kyNC1FbFVCNlBSQmo0ZXFtSkxMNTAyclVUa2s2RDF5MG8wb3U2WGR3bUE1Wk1za3NHRlJBVk5XS010VW9tQmhZNVZrQQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMUFlUWxBc0NqSTZnM1ZMb1k1NGlDTkNfeVZCaFBhbVB4ZUlPTXgxOXhkd2ZXa1lQWVB3TGFfNGFPS0xva1daYWVqcHpMWmE2czhaMldLZHpBRmlQMjFLcUVKX00wUkd1Q0JRWHV3MmpmQUtncVBqbGNqaHdreGlYMW1WalkxbUpFR1N6MHc5c1BaU0VVbGpYMDEzQ0FsbkthZGh1ZmF5MlBQVl",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-05-16T07:00:00+00:00",
+    "published_sort": 1778914800.0
+  },
+  {
+    "title": "Overtourism threatens Sri Lanka’s leopards - news - Mongabay",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEpVc2lVbXlfMG04UmNKX1cxb29iVzY2cF9SYzJhaGwyY2huV2xOZVd1bGlnZEFtSjFPYWhuNHI1SjBVZVNDa1AyR1VlanZuMHZjVTUyT1dMMnhtUkJhNkN5a2F3R29KVGpRV29XVmdYVkhrY3Z4S1NPSWE4MWJSTV9nOFRlT3dqWnc?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEpVc2lVbXlfMG04UmNKX1cxb29iVzY2cF9SYzJhaGwyY2huV2xOZVd1bGlnZEFtSjFPYWhuNHI1SjBVZVNDa1AyR1VlanZuMHZjVTUyT1dMMnhtUkJhNkN5a2F3R29KVGpRV29XVmdYVkhrY3Z4S1NPSWE4MWJSTV9nOFRlT3dqWnc?oc=5\" target=\"_blank\">Overtourism threaten",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-05-06T07:00:00+00:00",
+    "published_sort": 1778050800.0
+  },
+  {
+    "title": "Sri Lankan police arrest 37 Chinese at suspected scam center - The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2xWblR4cFFHek5MRnBXalEwRS1yMDFWdy1QN1VZNFd5LWN1LTB5MXBSZ2NhdE5aSVBhYTk4UTR0SG1XSmxKMnRadEUxNmJrVW90aTVFTmhrVmY1S0RPZnIzcWNCZXlCb0QySVlrQ3NvUXJHUDNkMU4zNW5pQXlfLVNGUGdBVU4xZUliQnBxcXUyeG96T3o0ZWlMcjNhWV9fOFE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2xWblR4cFFHek5MRnBXalEwRS1yMDFWdy1QN1VZNFd5LWN1LTB5MXBSZ2NhdE5aSVBhYTk4UTR0SG1XSmxKMnRadEUxNmJrVW90aTVFTmhrVmY1S0RPZnIzcWNCZXlCb0QySVlrQ3NvUXJHUDNkMU4zNW5pQXlfLVNGUGdBVU4xZUliQnBxcXUyeG96T3o0ZWlMcjNhWV9fOFE?oc=5\" targ",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-05-03T07:00:00+00:00",
+    "published_sort": 1777791600.0
+  },
+  {
+    "title": "A day trip around Colombo: Yevan David’s Hometown Tour - fiaformula3.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME9VZkdVMGF6MFZlek9UUHhqMHprbXlNLXItUTE2eWdSWUxMZlpXU3ljR2dPWS1yR01CaU9rbmFHd2pKSXpfaWREcUN2bmUyQWtSX1NjOW1XNkRqeFZxMDExdEx3TUR1S0RWYnFMdWpHS2xlSTVmdG9ndFU1RTh4YlJhampSUW5JVXJXdkYxUFlhcnlhNjRkV2VSQ01JX3dRQ042aDNxSEFzY0Vzc3c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPME9VZkdVMGF6MFZlek9UUHhqMHprbXlNLXItUTE2eWdSWUxMZlpXU3ljR2dPWS1yR01CaU9rbmFHd2pKSXpfaWREcUN2bmUyQWtSX1NjOW1XNkRqeFZxMDExdEx3TUR1S0RWYnFMdWpHS2xlSTVmdG9ndFU1RTh4YlJhampSUW5JVXJXdkYxUFlhcnlhNjRkV2VSQ01JX3dRQ042aDNxSEFzY0",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-04-27T07:00:00+00:00",
+    "published_sort": 1777273200.0
+  },
+  {
+    "title": "Sri Lanka urges daytime EV charging to ease grid pressure - electrive.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDRSLUJ5RmlIQ2x2eXk5b2RQR0xPcWtxSUttOFNGLW81MlNKZjlja3NKUWM2UnY2SlZDbFhRN3ZxRk5DMTVjc3BjNXpsU183NF9GWFY0aEM2Q3QyTUM4S3NCUWZma21lVXQyb2ZuNVF6SEdrZTR4amVZdWRXemxldENJUjRib2U3ZU5LMHNwdm5oX25CNVp3MFRIYw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDRSLUJ5RmlIQ2x2eXk5b2RQR0xPcWtxSUttOFNGLW81MlNKZjlja3NKUWM2UnY2SlZDbFhRN3ZxRk5DMTVjc3BjNXpsU183NF9GWFY0aEM2Q3QyTUM4S3NCUWZma21lVXQyb2ZuNVF6SEdrZTR4amVZdWRXemxldENJUjRib2U3ZU5LMHNwdm5oX25CNVp3MFRIYw?oc=5\" target=\"_blan",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-04-13T07:00:00+00:00",
+    "published_sort": 1776063600.0
+  },
+  {
+    "title": "Lamborghinis stranded in Sri Lanka as war disrupts Asia's used-car trade - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmloTE84dEM4UjI2Vk5vUjlVSTZFQms5Qm5NR2JTampFbVNYeUdGUmw5aktBSUE1a2NSaE5WNDAwUGlBclE2NmxlbkVQVFpGRGNBUXFuQlhUMno4SlB3TmRxUmx0Q0VWMnNzQUExYjByWm9jbzRSQ3NWa2txZThlLTFONk5VYTI5LXVzSDVVbzJwMWx1STluY2FGcUlOcV80VVVJdXpISnl6ZGVUb1lCTjZ2WF9JN3llN1Aw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmloTE84dEM4UjI2Vk5vUjlVSTZFQms5Qm5NR2JTampFbVNYeUdGUmw5aktBSUE1a2NSaE5WNDAwUGlBclE2NmxlbkVQVFpGRGNBUXFuQlhUMno4SlB3TmRxUmx0Q0VWMnNzQUExYjByWm9jbzRSQ3NWa2txZThlLTFONk5VYTI5LXVzSDVVbzJwMWx1STluY2FGcUlOcV80VVVJdXpISnl6ZG",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-03-30T07:00:00+00:00",
+    "published_sort": 1774854000.0
+  },
+  {
+    "title": "Lamborghinis stranded in Sri Lanka as war disrupts Asia’s used-car trade - The Japan Times",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnZQNXZHUkV0X3MwQWJlNkl4dTlNd2JBVldJYkRxVGNJakFLSTdtb1hNWnZvOENsT29nSjJmV1psZU1xTTZ2NXpzd3NJV1BMOVVnRHNNTDR5ZlJKTE1hbjFSYk1pYy02UUxXN3lWZEZMYVNpSi1JOFduYVpOakFjOFdJTU9XV1B5?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnZQNXZHUkV0X3MwQWJlNkl4dTlNd2JBVldJYkRxVGNJakFLSTdtb1hNWnZvOENsT29nSjJmV1psZU1xTTZ2NXpzd3NJV1BMOVVnRHNNTDR5ZlJKTE1hbjFSYk1pYy02UUxXN3lWZEZMYVNpSi1JOFduYVpOakFjOFdJTU9XV1B5?oc=5\" target=\"_blank\">Lamborghinis stranded i",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-03-25T07:00:00+00:00",
+    "published_sort": 1774422000.0
+  },
+  {
+    "title": "Sri Lanka just launched a four-day work week and declared Wednesdays a holiday—and the Iran War is why - Fortune",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3NlRXdJdm9Zb3RMbE1TdVJudUd0dDdKY0ZqLTJRNDRWT0lKYTJLR3NDb3p2VE54ZUphYno4VG1zRjFGS1pZSEJrLW00cERxajBPZEtNVV9UZi03QWctRG8zaW92dFhUOXpjdDB6Z3BPWllsdUlEdmxDdXlnY0M4MHhIN2xXdHloMlV3SWdsTXpiRDRQaDFsMWxvVEdmVDBjaTVCZUtFRDY4V20tNTlnZXl6QThSODFZZVE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3NlRXdJdm9Zb3RMbE1TdVJudUd0dDdKY0ZqLTJRNDRWT0lKYTJLR3NDb3p2VE54ZUphYno4VG1zRjFGS1pZSEJrLW00cERxajBPZEtNVV9UZi03QWctRG8zaW92dFhUOXpjdDB6Z3BPWllsdUlEdmxDdXlnY0M4MHhIN2xXdHloMlV3SWdsTXpiRDRQaDFsMWxvVEdmVDBjaTVCZUtFRDY4V2",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-03-18T07:00:00+00:00",
+    "published_sort": 1773817200.0
+  },
+  {
+    "title": "Sri Lanka declares all Wednesdays off to conserve energy - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tNHVrTDN1cWpScEQ3UmxlLW5CZFpQUDY2UU01UFJPQjhMMUZ0RmZkZy1yTzZWNVY2M1BSbER1Vm5ueThWTTNocVBGYk9HUWdLRHpBU2dpLVpOUQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tNHVrTDN1cWpScEQ3UmxlLW5CZFpQUDY2UU01UFJPQjhMMUZ0RmZkZy1yTzZWNVY2M1BSbER1Vm5ueThWTTNocVBGYk9HUWdLRHpBU2dpLVpOUQ?oc=5\" target=\"_blank\">Sri Lanka declares all Wednesdays off to conserve energy</a>&nbsp;&nbsp;<font color=\"",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-03-16T07:00:00+00:00",
+    "published_sort": 1773644400.0
+  },
+  {
+    "title": "Sri Lanka rolls out QR code system for fuel distribution amid supply concerns - Xinhua",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zcEZ0ZkY4TnJqZlFkc05PYkFuLXlxaFBlR1RvUUR2ZVdna0lpVU9nUDZpSVZ3eF9zbGt4LWhZdTZfTm1YVkp1WHR4OEJaY243dTJ0VjlFYVpQT1RrTHdkZGlESEk1ZGR5alFCSEpTVmZIeUNlcHRqM2pTanE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0zcEZ0ZkY4TnJqZlFkc05PYkFuLXlxaFBlR1RvUUR2ZVdna0lpVU9nUDZpSVZ3eF9zbGt4LWhZdTZfTm1YVkp1WHR4OEJaY243dTJ0VjlFYVpQT1RrTHdkZGlESEk1ZGR5alFCSEpTVmZIeUNlcHRqM2pTanE?oc=5\" target=\"_blank\">Sri Lanka rolls out QR code system for f",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-03-15T07:00:00+00:00",
+    "published_sort": 1773558000.0
+  },
+  {
+    "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk off its coast by a US submarine - KSAT",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3JFQlRZeXBteWN0eFNqTl9HNTY5a1pCVzk1M1Y3aU9HYXVzOXJ0Z0lTSzBSY2pPM0dfY1BXdHpQRFh4SEw2UWJpY3BHcDdYWHJVUVpnRTdvc1VEVVFNWkZJX05MZ1c3a3NqTU9PQXhjblNqcnBERUxvTVp1WEMzUWhhTW1NZEdNX05SQVJ0UDFRdTd6QVJZSmZDZTV5SXhucGgwV3UxTzFnWm83UGdSbGdIamNIOEFOamkxZFRrQjUycXE1QWVHTVpB?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3JFQlRZeXBteWN0eFNqTl9HNTY5a1pCVzk1M1Y3aU9HYXVzOXJ0Z0lTSzBSY2pPM0dfY1BXdHpQRFh4SEw2UWJpY3BHcDdYWHJVUVpnRTdvc1VEVVFNWkZJX05MZ1c3a3NqTU9PQXhjblNqcnBERUxvTVp1WEMzUWhhTW1NZEdNX05SQVJ0UDFRdTd6QVJZSmZDZTV5SXhucGgwV3UxTzFnWm",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-03-04T08:00:00+00:00",
+    "published_sort": 1772611200.0
+  },
+  {
+    "title": "2026 Eliyakanda Hill Climb, Sri Lanka: Selection Of Results - Road Racing News",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkVKZTVvZlZLVldtWDBKUF8xWWJReHFoajRzT25pRVFSQzdqT2RyOXNjUXp0U0xBQmZUQ1hPOGFPbjRlaWx5U2l0SEFQNU1xUDJwZDgyQklHdlpETkRDanZvbC1rN1BCOGs4ZlBYX0FIVWtPQ01rVy1pbUl0Z0c0TnV0QTZvbFN6WS13eWdyNGo?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkVKZTVvZlZLVldtWDBKUF8xWWJReHFoajRzT25pRVFSQzdqT2RyOXNjUXp0U0xBQmZUQ1hPOGFPbjRlaWx5U2l0SEFQNU1xUDJwZDgyQklHdlpETkRDanZvbC1rN1BCOGs4ZlBYX0FIVWtPQ01rVy1pbUl0Z0c0TnV0QTZvbFN6WS13eWdyNGo?oc=5\" target=\"_blank\">2026 Eliyaka",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-02-24T08:00:00+00:00",
+    "published_sort": 1771920000.0
+  },
+  {
+    "title": "‘It felt like home’ - The Sunday Times, Sri Lanka",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOUUJMdXgxN2ZxUUZ5anRQanZqYWRtakZDaEpRZk5pcTZ6RFVDU3hXUG5TVVZWLW5iLVZtX3lMbUh0eDlXUFpJNDhYZnZ2bEVDVGNGRVYxVFFCSUlrcDBvWGhWRURKbXJoYnlzNHRoX0YxUGJqczN4RUZR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBOUUJMdXgxN2ZxUUZ5anRQanZqYWRtakZDaEpRZk5pcTZ6RFVDU3hXUG5TVVZWLW5iLVZtX3lMbUh0eDlXUFpJNDhYZnZ2bEVDVGNGRVYxVFFCSUlrcDBvWGhWRURKbXJoYnlzNHRoX0YxUGJqczN4RUZR?oc=5\" target=\"_blank\">‘It felt like home’</a>&nbsp;&nbsp;<font co",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-02-08T08:00:00+00:00",
+    "published_sort": 1770537600.0
+  },
+  {
+    "title": "Carwiz International Enters Sri Lanka Market - Auto Rental News",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHFadkZYMW0ydVdaREhCRC1yUzRZOXJaaVMtcS1FSnFGM2xqYUJJN3VnOTFyWFRpVjQ2RXNvSEQ4RGYzVFhVWHFadm4tX1hmLUttTTJXcl83LVlwaV9JR2dGT3c2YjNSdW1JR2d0Sm5KU3BseE9nd01EVlk5WlJyOTlmamF0QlU?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHFadkZYMW0ydVdaREhCRC1yUzRZOXJaaVMtcS1FSnFGM2xqYUJJN3VnOTFyWFRpVjQ2RXNvSEQ4RGYzVFhVWHFadm4tX1hmLUttTTJXcl83LVlwaV9JR2dGT3c2YjNSdW1JR2d0Sm5KU3BseE9nd01EVlk5WlJyOTlmamF0QlU?oc=5\" target=\"_blank\">Carwiz International Ent",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-02-05T08:00:00+00:00",
+    "published_sort": 1770278400.0
+  },
+  {
+    "title": "Elephant Attacks Tourist Van in Sri Lanka as Passengers Flee - TODAY.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpHdnRVaHh5d00wVmR6YWRFRnpDVWphQ2tUWGFTWVZYQk00bzJ0Zk1tMjd6RTU4aFBieDY2VWVVOEVmZkc1MHMyQzA0R3pMSmU1alFRTHRFVTFpMGVlOXdCY1VWTFJzVk5XV1RVZzdUbzBWamtpSkFyelBVTnNvNWdlVEx1em5sYTNXYlFRb3g4UV9HeHluWGEtVQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpHdnRVaHh5d00wVmR6YWRFRnpDVWphQ2tUWGFTWVZYQk00bzJ0Zk1tMjd6RTU4aFBieDY2VWVVOEVmZkc1MHMyQzA0R3pMSmU1alFRTHRFVTFpMGVlOXdCY1VWTFJzVk5XV1RVZzdUbzBWamtpSkFyelBVTnNvNWdlVEx1em5sYTNXYlFRb3g4UV9HeHluWGEtVQ?oc=5\" target=\"_blan",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-01-28T08:00:00+00:00",
+    "published_sort": 1769587200.0
+  },
+  {
+    "title": "Red Bull Racing Show Run - Sri Lanka - Red Bull",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzRUdtQl9nQmwwMTl5Zi1zaG9fSUV4WF83b1p5YlVQcUNNMVZNdV9BV3UxSkpBRzBud2trX0N6dDN0Y3FSYVZHRjZDWDYtWktMWk9DWEVQR3RQS2RfWTM2VXMtZHc0MmxPbUE2LUJlczVOUk9GT2VZSVIyaWE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBzRUdtQl9nQmwwMTl5Zi1zaG9fSUV4WF83b1p5YlVQcUNNMVZNdV9BV3UxSkpBRzBud2trX0N6dDN0Y3FSYVZHRjZDWDYtWktMWk9DWEVQR3RQS2RfWTM2VXMtZHc0MmxPbUE2LUJlczVOUk9GT2VZSVIyaWE?oc=5\" target=\"_blank\">Red Bull Racing Show Run - Sri Lanka</a>",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-01-16T08:00:00+00:00",
+    "published_sort": 1768550400.0
+  },
+  {
+    "title": "Ricciardo brings F1 to Sri Lanka - Red Bull",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85Q3NjQ3NsOTQ4YTIzYzBmSk1vZWptYTE2T1N6NWRyYkFGS0k0eHVvQkJOUHRqR25WUlFzTnk2cGNiaVpFMmhLYlZ2LXRxcXVuSTJFZ091c3VOZFIwR2ZzY213X19PMzRSSHVMQUNGbkJ2NXBwbXJtSEVR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE85Q3NjQ3NsOTQ4YTIzYzBmSk1vZWptYTE2T1N6NWRyYkFGS0k0eHVvQkJOUHRqR25WUlFzTnk2cGNiaVpFMmhLYlZ2LXRxcXVuSTJFZ091c3VOZFIwR2ZzY213X19PMzRSSHVMQUNGbkJ2NXBwbXJtSEVR?oc=5\" target=\"_blank\">Ricciardo brings F1 to Sri Lanka</a>&nbsp;&",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-01-16T08:00:00+00:00",
+    "published_sort": 1768550400.0
+  },
+  {
+    "title": "Yevan David begins 2026 season with Kiwi Motorsport in New Zealand - The Sunday Times, Sri Lanka",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVU9CaHB0VzUyQ1R6ekJfaFgtY2VZd2xBem1VMlZGWkU1SW5DR1B5WllFbjhISTktVGJQT1ZFdGs4dFZ3dFdlZ0kxMndabF9GZXppNUNaMUYxRTMzMU94bUd5YzNvNVZUcVFvTEJzT0paQnNERkpjcEwta2FXRVRhMXdtZHVyVVJXRkdfa1RPdDFacVF0MU5hb0I0c0JfdURDSE9FMnNTTzNsYkJNQ2REZ2pQQ1o3YVdsZF9F?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVU9CaHB0VzUyQ1R6ekJfaFgtY2VZd2xBem1VMlZGWkU1SW5DR1B5WllFbjhISTktVGJQT1ZFdGs4dFZ3dFdlZ0kxMndabF9GZXppNUNaMUYxRTMzMU94bUd5YzNvNVZUcVFvTEJzT0paQnNERkpjcEwta2FXRVRhMXdtZHVyVVJXRkdfa1RPdDFacVF0MU5hb0I0c0JfdURDSE9FMnNTTzNsYk",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-01-11T08:00:00+00:00",
+    "published_sort": 1768118400.0
+  },
+  {
+    "title": "Yevan David “ The Sri Lankan Lion on the Track” Begins His 2026 Racing Season in New Zealand - Newsfirst.",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUmNYRzRZWVQwZk5OdWd4NmR3ejQ4TW5tbTZhaHI2c0ZGUmRKSm9La2tyazRyZEhvZEdxMjdSRS03SjFLeWdzcmNIZm5yWXJjbnBuWnc0QXZTT2lsdkk1Z2VSMXEya2JZdGRRT0ZxazFydVZ4UFk1T0pzV25KVVFmRDh3WnRfM1ZCdUlrR2QtVW51R3Q2cndoa0lCbDlpeHpmSFp6dUpFLXZlT2UzdUlfb3hsNHZTNDdwaTh6TEt2bjAxc0Y1WUpiTENSME56dXo5bEFRM2Q1Ynk1clJ4QmJvcGJn?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUmNYRzRZWVQwZk5OdWd4NmR3ejQ4TW5tbTZhaHI2c0ZGUmRKSm9La2tyazRyZEhvZEdxMjdSRS03SjFLeWdzcmNIZm5yWXJjbnBuWnc0QXZTT2lsdkk1Z2VSMXEya2JZdGRRT0ZxazFydVZ4UFk1T0pzV25KVVFmRDh3WnRfM1ZCdUlrR2QtVW51R3Q2cndoa0lCbDlpeHpmSFp6dUpFLXZlT2",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-01-11T08:00:00+00:00",
+    "published_sort": 1768118400.0
+  },
+  {
+    "title": "Yevan David to make Formula 3 history with AIX Racing - DIVEBOMB Motorsport",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHFUN1VSRm9lUUYzZElyZFEzTmtvZTZUVFlUa1VBQzJyYUh6SG82MUxhVGN3dElYZ1Z6bXhyanJuY292LTFEYkFuQ2JwQmdrQmFXdFBLc09RZmZDLUZ2ZnpTX3BNMkhLTXo4Q3FKTkJiOENqRUphejJrRVA0YnR6cjE3b0ptRk0wMC0zZklXN0M?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHFUN1VSRm9lUUYzZElyZFEzTmtvZTZUVFlUa1VBQzJyYUh6SG82MUxhVGN3dElYZ1Z6bXhyanJuY292LTFEYkFuQ2JwQmdrQmFXdFBLc09RZmZDLUZ2ZnpTX3BNMkhLTXo4Q3FKTkJiOENqRUphejJrRVA0YnR6cjE3b0ptRk0wMC0zZklXN0M?oc=5\" target=\"_blank\">Yevan David ",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-01-05T08:00:00+00:00",
+    "published_sort": 1767600000.0
+  },
+  {
+    "title": "Mora Racing: Accelerating Change in Sri Lankan Motorsport from Ground up - ThePapare",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGx0bm1YSGNkbmpXQlh2MS1xeVB5b3V6cVMzTGRGeFhnRzV3NUF1b0NMUkxLa1R3VFpiMVhrWURQOFVkbGJ1T2VZODZBM1NQTGxEUEsxR3ZGWndzaDdGTjFFY0VMcm1ucmkwSDRTdXloOHY0V3JKTE9pSGJFLXR5U0tZYWJFc3dRUm52R2g2bkJDX3ZEd0I4bE50ZlJFVVE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGx0bm1YSGNkbmpXQlh2MS1xeVB5b3V6cVMzTGRGeFhnRzV3NUF1b0NMUkxLa1R3VFpiMVhrWURQOFVkbGJ1T2VZODZBM1NQTGxEUEsxR3ZGWndzaDdGTjFFY0VMcm1ucmkwSDRTdXloOHY0V3JKTE9pSGJFLXR5U0tZYWJFc3dRUm52R2g2bkJDX3ZEd0I4bE50ZlJFVVE?oc=5\" target=\"",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-12-11T08:00:00+00:00",
+    "published_sort": 1765440000.0
+  },
+  {
+    "title": "David heads to NZ to make history for Sri Lankan motorsport - VelocityNews",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDVKUVJhM3NYNHpYOHdLYURZRXYwVFo3djFjV3MyUkxMMlFjekNqRVQtcVNNNVFzeUZQcWlvcFhiSDBSczZwcnMwdHU4Ujk3N1M2aFdrSFhYZFZfcHgwTEhDOElpRWh1Rk5ma0NxTlFxbHQyTXBRV3MyVTZfZU8xbWVPNUNZWktpdHdYMkRMekMxaFczc0E?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDVKUVJhM3NYNHpYOHdLYURZRXYwVFo3djFjV3MyUkxMMlFjekNqRVQtcVNNNVFzeUZQcWlvcFhiSDBSczZwcnMwdHU4Ujk3N1M2aFdrSFhYZFZfcHgwTEhDOElpRWh1Rk5ma0NxTlFxbHQyTXBRV3MyVTZfZU8xbWVPNUNZWktpdHdYMkRMekMxaFczc0E?oc=5\" target=\"_blank\">Davi",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-11-28T08:00:00+00:00",
+    "published_sort": 1764316800.0
+  },
+  {
+    "title": "Sri Lanka banks on IMF cash as car imports top estimates - Macau Business",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUhneXZZRVVDYmtnUWdHVWhfd0FveGhXeTVPSkMtQl9hb01mWC1yTHVoS2tnSFFrS2RBZXl5c2hxRmt6RUJFaU5Pdy1OLWFDa3pNX1JFMXRIakFIdl9pVW5vbFlTRVZWMDREbHlleXlaS2NlMFJDQjFyMDdlVkFBZDhZR2VILWZsbDRR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUhneXZZRVVDYmtnUWdHVWhfd0FveGhXeTVPSkMtQl9hb01mWC1yTHVoS2tnSFFrS2RBZXl5c2hxRmt6RUJFaU5Pdy1OLWFDa3pNX1JFMXRIakFIdl9pVW5vbFlTRVZWMDREbHlleXlaS2NlMFJDQjFyMDdlVkFBZDhZR2VILWZsbDRR?oc=5\" target=\"_blank\">Sri Lanka banks on ",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2025-11-26T08:00:00+00:00",
+    "published_sort": 1764144000.0
+  },
+  {
+    "title": "Every Formula 3 driver confirmed for the 2026 season so far - DIVEBOMB Motorsport",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVpyMXlRUnZwRmpqMXIzSUFtOGdpUGxRYVQ2YVpWd0pWSDNub0YtNHZ1UzNzYVdYWFFCZTFrcWVXcnVtVkFsYUVBeDA2V0hfSHAwV3hKczYyZkZKQzdaRG1ubXhydk9CYjdzb1ZORG5FdXU3cnA3NW42TDBMcWgwN2ZkeTBkTTJmUGxvdW1Qd3FScU1OREpBRA?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVpyMXlRUnZwRmpqMXIzSUFtOGdpUGxRYVQ2YVpWd0pWSDNub0YtNHZ1UzNzYVdYWFFCZTFrcWVXcnVtVkFsYUVBeDA2V0hfSHAwV3hKczYyZkZKQzdaRG1ubXhydk9CYjdzb1ZORG5FdXU3cnA3NW42TDBMcWgwN2ZkeTBkTTJmUGxvdW1Qd3FScU1OREpBRA?oc=5\" target=\"_blank\">E",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-10-06T07:00:00+00:00",
+    "published_sort": 1759734000.0
+  },
+  {
+    "title": "AAP fielding Philippine Team for Asia Pacific Motorsports Championship 2025 - Manila Bulletin",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXRwczJHLUI2TEJYVnZfUElHNGlhV2lvYks5bVgyN2tqc3VsT1JiM1RFRGI3d0NaWDhVcm9IdWtzS3lPQl83cFFKd1d1T0NrdmVTRXZNSG5vNnJnS1FpVGFsYXNCUnVfaWhnSWxzWjRndnBDYlVsU1l5dnVLXzd2SHNBQlVxMUhLTlBJM21SaXF1SnBOcS1IRTRZeUxsc01ZZm1LZjYxZw?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXRwczJHLUI2TEJYVnZfUElHNGlhV2lvYks5bVgyN2tqc3VsT1JiM1RFRGI3d0NaWDhVcm9IdWtzS3lPQl83cFFKd1d1T0NrdmVTRXZNSG5vNnJnS1FpVGFsYXNCUnVfaWhnSWxzWjRndnBDYlVsU1l5dnVLXzd2SHNBQlVxMUhLTlBJM21SaXF1SnBOcS1IRTRZeUxsc01ZZm1LZjYxZw?oc=",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-09-26T07:00:00+00:00",
+    "published_sort": 1758870000.0
+  },
+  {
+    "title": "Sri Lanka hosts the Asia Pacific Motorsport Championship 2025 - ThePapare",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNREhOcklGWVdkODlJazQzOEpLS2dnb3JSR25KNDlNYXZRb2x3TFRjV0JHOG1uNWltY3c5elc4Y2Z6OHhoY2JwWDhra2p0clowMWxwM2hweHhNSGRWTHU4N3d1Q2R6RHRyeWdTaXc1N3UxSExVVGxOZDcyRHQ2TXBKeFR4R05iTkxnaXVaZ21FbDgyUQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNREhOcklGWVdkODlJazQzOEpLS2dnb3JSR25KNDlNYXZRb2x3TFRjV0JHOG1uNWltY3c5elc4Y2Z6OHhoY2JwWDhra2p0clowMWxwM2hweHhNSGRWTHU4N3d1Q2R6RHRyeWdTaXc1N3UxSExVVGxOZDcyRHQ2TXBKeFR4R05iTkxnaXVaZ21FbDgyUQ?oc=5\" target=\"_blank\">Sri Lanka",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-09-23T07:00:00+00:00",
+    "published_sort": 1758610800.0
+  },
+  {
+    "title": "Sarawak Motorsport Hits The Fast Lane - Sarawak Tribune",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PUWZiX3FUWVpTaW16ZHBGNHR1bmJiZE5EZUw3YVVaNU0wUmlTd1N3ZHdnQVZHN2R3ZzJiakltSWo3ejVIbExTRzhKMWNVRG5sZnFpQTR5V3dSOTAybTYyWkROWjhIWXpEZlhTSUY0b3pycGI5N3paWQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1PUWZiX3FUWVpTaW16ZHBGNHR1bmJiZE5EZUw3YVVaNU0wUmlTd1N3ZHdnQVZHN2R3ZzJiakltSWo3ejVIbExTRzhKMWNVRG5sZnFpQTR5V3dSOTAybTYyWkROWjhIWXpEZlhTSUY0b3pycGI5N3paWQ?oc=5\" target=\"_blank\">Sarawak Motorsport Hits The Fast Lane</a>&nbs",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-09-14T07:00:00+00:00",
+    "published_sort": 1757833200.0
+  },
+  {
+    "title": "Yevan David making waves in global motor racing - The Sunday Times, Sri Lanka",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGNVcFBYSG9ORURKbXhEd3pPTWQzQ0NTU1k5THp1RUVsa2VmblFkSWxoakNMdFlxY0NzOG9zZHhkTFlZSkt6YmMyUWVBbGJkZ0dna0twS0JrTWJtRXgxSkdiXzgwVVdPbzRNSzBZNGRXb0UtaXhTbDZXNG5FbDQyRXBQZVdMTVotaVpSZEZRcGxpWTA0TVdKM2VRdFpCSEJfX2c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGNVcFBYSG9ORURKbXhEd3pPTWQzQ0NTU1k5THp1RUVsa2VmblFkSWxoakNMdFlxY0NzOG9zZHhkTFlZSkt6YmMyUWVBbGJkZ0dna0twS0JrTWJtRXgxSkdiXzgwVVdPbzRNSzBZNGRXb0UtaXhTbDZXNG5FbDQyRXBQZVdMTVotaVpSZEZRcGxpWTA0TVdKM2VRdFpCSEJfX2c?oc=5\" targ",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-08-10T07:00:00+00:00",
+    "published_sort": 1754809200.0
+  },
+  {
+    "title": "AIX signs first F3 driver David from Sri Lanka for 2026 season - FormulaRapida.net",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdlNYYVhNREVMajRtR2ZpNjdGMDUxZk1heUh1SFBPWnRWa2JYb2NsWmRKdTg4NTlNZ0ZTZklYR3RseWhrUVRhNXgzVDJZb0hhOVI4WHhPbUotb2ZZcDlobERTSWRuYzhrV1FBT0ZCQXRCc2RMMW5IamFPLVdwX2ZCcTBzV0I3RUJOc3VmVkVDX3dhQ29nRVRV0gGcAUFVX3lxTE9tQWlvU2NBdThoMHVRejlYeE95bnFMYmhxUVNZWGtSVWp0NS1wVXlfUWlYS0pHdDZ0czctMWx1c1lIdmM3OG1YZVpvZUgzREZFN2dSZHh4SWg4SDdQaVJJVW9mMmFLYTY3bnczUFRhdGdEOWtFNURVd294VlRWRXdKV1U5cG02cTJyUkRsdVlJdkpZNDN4SlF0aGlhUg?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdlNYYVhNREVMajRtR2ZpNjdGMDUxZk1heUh1SFBPWnRWa2JYb2NsWmRKdTg4NTlNZ0ZTZklYR3RseWhrUVRhNXgzVDJZb0hhOVI4WHhPbUotb2ZZcDlobERTSWRuYzhrV1FBT0ZCQXRCc2RMMW5IamFPLVdwX2ZCcTBzV0I3RUJOc3VmVkVDX3dhQ29nRVRV0gGcAUFVX3lxTE9tQWlvU2NBdT",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-08-08T07:00:00+00:00",
+    "published_sort": 1754636400.0
+  },
+  {
+    "title": "AIX Racing signs Yevan David for 2026 Formula 3 campaign - fiaformula3.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTNMNEJHNmp4c2ExaTBTQWxtSzVteUdUbXhrb0t3R2FmZE5rOTBfX2RfS0VjaXpTekxfQk0tS04xSXo0ckpnellsaXc2eDM0amtzbHU5ZXZLRDJabEFCWW13a0pRRF9EcjJ4VkdsRTBnQldmamZuZ1JIeXM3MTAzc3A0VjJ5eXBBcEE4TWZnUkhUVmRXMjFOQy15WkNwdUMyYjJJMlMyeWZfSlIyU2JOZHF4WVo?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTNMNEJHNmp4c2ExaTBTQWxtSzVteUdUbXhrb0t3R2FmZE5rOTBfX2RfS0VjaXpTekxfQk0tS04xSXo0ckpnellsaXc2eDM0amtzbHU5ZXZLRDJabEFCWW13a0pRRF9EcjJ4VkdsRTBnQldmamZuZ1JIeXM3MTAzc3A0VjJ5eXBBcEE4TWZnUkhUVmRXMjFOQy15WkNwdUMyYjJJMlMyeWZfSl",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-08-08T07:00:00+00:00",
+    "published_sort": 1754636400.0
+  },
+  {
+    "title": "How China’s ‘big winner’ BYD conquered Sri Lanka’s car market - South China Morning Post",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE54VWNnWENiQkxPX195ellTM1JFSFlYSU40bVJ3RmV6NUoycjF3UFBXMkY2S2JiOHBicExsRWpaZERLMVF4TWk1WS1QN3FIWFB4TGNDNTVyTTNfTWVRbzYxcWNnaE1aTmt0X1lTMGIzTGVSLTVMQWhKcEUtRWFpRnRJX0c1OVhlQnIteGhNMHJBRlNrZ1VCaDBxdll1TlRrb1BESlJhRXB6RVpCaXNQdTFGR3RwWmhiVW4zNEl6UkFfOVMt0gHEAUFVX3lxTE5JV0NKaDdVazZ4QTlRRGd2ZWlDemRPdGU4SjEySTFsTWVydkt4allvdGM4Um1NRXY4b2R4eFl3SWV3M3ZBbVRBWUhFVllNd3FWTV8zZl9ZZVpxMXVOU2pMenVDdnBDRG5xb2drVjFaUWh3d2JNeUJPLVJib0doT05fc2pGN1JNREFyRk9YWWp0dVBiZGpwVVB2dDB3TkpYZjAwUk1OUWdyN1JzNkk2LVVEUFY2SXE5TWRnNEdiR3Y0eENIdVc?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE54VWNnWENiQkxPX195ellTM1JFSFlYSU40bVJ3RmV6NUoycjF3UFBXMkY2S2JiOHBicExsRWpaZERLMVF4TWk1WS1QN3FIWFB4TGNDNTVyTTNfTWVRbzYxcWNnaE1aTmt0X1lTMGIzTGVSLTVMQWhKcEUtRWFpRnRJX0c1OVhlQnIteGhNMHJBRlNrZ1VCaDBxdll1TlRrb1BESlJhRXB6RV",
+    "category": "sri-lanka-automotive",
+    "feed_name": "Sri Lanka Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2025-07-26T07:00:00+00:00",
+    "published_sort": 1753513200.0
+  },
+  {
+    "title": "iRacing to Reality: Yevan David - iRacing.com | iRacing.com Motorsport Simulations - iRacing",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5UExxMFB2UDdpQ3puNGZySnVzd3hNYkR3U1pNNjBxNU8wNUpEWFN4U1FubF9ZY2VxOUpzZWlVLS1Mc0tKZFg5RTlrZ0hFYzkxNFVMSzZvSnNwN3pEMWpTSW5kdTFTQQ?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5UExxMFB2UDdpQ3puNGZySnVzd3hNYkR3U1pNNjBxNU8wNUpEWFN4U1FubF9ZY2VxOUpzZWlVLS1Mc0tKZFg5RTlrZ0hFYzkxNFVMSzZvSnNwN3pEMWpTSW5kdTFTQQ?oc=5\" target=\"_blank\">iRacing to Reality: Yevan David - iRacing.com | iRacing.com Motorspor",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2025-01-02T08:00:00+00:00",
+    "published_sort": 1735804800.0
+  },
+  {
+    "title": "Super Trofeo Stories: Living a childhood dream with an Asia icon - Lamborghini.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1FDX0tWTzdMY0pYelRDQnE2QWg0V0RtU1hpY2hSR3g2Ni1OX21aaXJBdm0wUVcxeGlPeW9YSWdPMjYwSDdlSjROWUFCLVZ5RWk3YUhBMTBDVXUxNzZINkpfazczdzV4RGxRdldfWk85OUt0WGlQajFWVGZBTHNQVHhuZml2bUZkc250LU94Umk0TXJsS1dRME9lQ0VMX005V01KQm5uSjl6cUtMZXdpVUt3OA?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1FDX0tWTzdMY0pYelRDQnE2QWg0V0RtU1hpY2hSR3g2Ni1OX21aaXJBdm0wUVcxeGlPeW9YSWdPMjYwSDdlSjROWUFCLVZ5RWk3YUhBMTBDVXUxNzZINkpfazczdzV4RGxRdldfWk85OUt0WGlQajFWVGZBTHNQVHhuZml2bUZkc250LU94Umk0TXJsS1dRME9lQ0VMX005V01KQm5uSjl6cU",
+    "category": "sri-lanka-motorsport",
+    "feed_name": "Sri Lanka Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2023-11-24T08:00:00+00:00",
+    "published_sort": 1700812800.0
+  }
+]
