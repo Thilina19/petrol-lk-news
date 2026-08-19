@@ -1,15 +1,5 @@
 [
   {
-    "title": "- MEXICONOW - MEXICONOW",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBObUlXZFlMXzNKVzdENFcxOFdzYjYyMU1PWVdteFZKLVBoMHhLMWFZZE5WNDBmN1RvQm1VRlExN2xJdGM0NkE?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBObUlXZFlMXzNKVzdENFcxOFdzYjYyMU1PWVdteFZKLVBoMHhLMWFZZE5WNDBmN1RvQm1VRlExN2xJdGM0NkE?oc=5\" target=\"_blank\">- MEXICONOW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXICONOW</font>",
-    "category": "global-automotive",
-    "feed_name": "Global Automotive",
-    "source_host": "news.google.com",
-    "published_utc": "2026-08-19T18:13:40+00:00",
-    "published_sort": 1787163220.0
-  },
-  {
     "title": "China as Pacesetter - F&I and Showroom",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaLTI5UmUzM0ZJck84eFlDYnF5eXdOOEdyTmc0OEo3Yjk5SUNVNEVHSUFhS3hkdDJLdDQ2Y2dkVll6a2ctQjc0TXdCOUYyX25oYmwtbW10WXMtSnBnX2RZVjNUWQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaLTI5UmUzM0ZJck84eFlDYnF5eXdOOEdyTmc0OEo3Yjk5SUNVNEVHSUFhS3hkdDJLdDQ2Y2dkVll6a2ctQjc0TXdCOUYyX25oYmwtbW10WXMtSnBnX2RZVjNUWQ?oc=5\" target=\"_blank\">China as Pacesetter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">F&amp;I and Show",
@@ -30,7 +20,17 @@
     "published_sort": 1787162913.0
   },
   {
-    "title": "ANALYSIS: Why Lawson’s Red Bull call-up is such a huge opportunity - formula1.com",
+    "title": "Racing on TV, August 20-23 - RACER - Racing News",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdExVS1Mtd3M4UmNwWDhrRjUxSUN5WFEwckVCMmZORjVnbWVtWTR2T19uN0xEUldvOVJYR0JPMDJ3R21GWTRmcFV5TXdfaENvNmVGcTlTTTZZM1h3MGc5VEJBS0M?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdExVS1Mtd3M4UmNwWDhrRjUxSUN5WFEwckVCMmZORjVnbWVtWTR2T19uN0xEUldvOVJYR0JPMDJ3R21GWTRmcFV5TXdfaENvNmVGcTlTTTZZM1h3MGc5VEJBS0M?oc=5\" target=\"_blank\">Racing on TV, August 20-23</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RACER - ",
+    "category": "global-motorsport",
+    "feed_name": "Global Motorsport",
+    "source_host": "news.google.com",
+    "published_utc": "2026-08-19T17:36:00+00:00",
+    "published_sort": 1787160960.0
+  },
+  {
+    "title": "ANALYSIS: Why Lawson’s Red Bull call-up is such a huge opportunity - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMk9NNU5QWVVOS2tFUWVoZFdObTlVMXhxSXNoZi0tVUZxQTZUVWtjNUZVOGRzQ0wybUtpZXBCTkowVGd6c3J2NXM4ejVlYjI4b1A2Wm9HbG1sbnR6UWxtY0duWVVEN2tOOTF1SGRrLXFCdWxELWFIWkVXYUtGR2stcVN6eTRrR0hTVUU3b2FRQTNGN0dQOTZfSFJlazVmYXhuZS1Qbk5BbVFYWjEzRFNLOEtfbjZUMnNlZndDVDBIbUROOFllWkRfbV9n?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMk9NNU5QWVVOS2tFUWVoZFdObTlVMXhxSXNoZi0tVUZxQTZUVWtjNUZVOGRzQ0wybUtpZXBCTkowVGd6c3J2NXM4ejVlYjI4b1A2Wm9HbG1sbnR6UWxtY0duWVVEN2tOOTF1SGRrLXFCdWxELWFIWkVXYUtGR2stcVN6eTRrR0hTVUU3b2FRQTNGN0dQOTZfSFJlazVmYXhuZS1Qbk5BbVFYWj",
     "category": "global-motorsport",
@@ -70,7 +70,7 @@
     "published_sort": 1787154723.0
   },
   {
-    "title": "The latest Brazilian prodigy eyeing a place in Formula 1 – Who is Ferrari junior Rafael Camara? - formula1.com",
+    "title": "The latest Brazilian prodigy eyeing a place in Formula 1 – Who is Ferrari junior Rafael Camara? - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNFBVX2otN0RTVzcwcVR3RkFiODl6TkxlX3RvTjdJTFZQUVhxQkxrbjZoRUF2T2tPanAzd2VzZUpmaU9nTi1SV2JNeDZSUnNjekVGUThfX09kYUQtaHN6WUdES1prYkFyUFJYM1ZSWDdTNVVETk5mSUlPaTZ6UWIzd0d0cHo0c3lFcWJoU0d3TWxMekRfMkZxbXpEblJBV0FDNmRjRkczTTd6Rkp3VU9ETFBySkJxQ1RXQ1NCVTg3cm9yYW91VVB4X19hbWNRQVk2ZDF1bndaMGJvbk9lYU1WdnNZaTVWQVVzdGtmcmxHVQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNFBVX2otN0RTVzcwcVR3RkFiODl6TkxlX3RvTjdJTFZQUVhxQkxrbjZoRUF2T2tPanAzd2VzZUpmaU9nTi1SV2JNeDZSUnNjekVGUThfX09kYUQtaHN6WUdES1prYkFyUFJYM1ZSWDdTNVVETk5mSUlPaTZ6UWIzd0d0cHo0c3lFcWJoU0d3TWxMekRfMkZxbXpEblJBV0FDNmRjRkczTTd6Rk",
     "category": "global-motorsport",
@@ -80,7 +80,7 @@
     "published_sort": 1787154600.0
   },
   {
-    "title": "What are the F1 Fantasy strategies for the Dutch GP? - formula1.com",
+    "title": "What are the F1 Fantasy strategies for the Dutch GP? - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVG5PSmpkbTRLNmd3bnpOS2RndS0yeFRWeVhnY0ZQNVZIYkREc0VzRm5TcTV5cDVRcHhtbllwY2RJZWxjTk45WGxadHhiWjdQYmlhT0NNNUlMdmQtZkhtWFdxWlFHRjVJR1NGaEJ1YUV6YVRwVEl2WGdDOWpQZlpBblZQT0tJaFduWTJEWmdFQXZORUFQZ2RxNE1QMlpmZ2hOeXBsOTFYZzREcUVDbVQ3YVBqLTlCcnlMZHhJOWhzdDg1TFoyOUJDYndOdzFOT3Y4NTZkckhfS1N4Zw?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVG5PSmpkbTRLNmd3bnpOS2RndS0yeFRWeVhnY0ZQNVZIYkREc0VzRm5TcTV5cDVRcHhtbllwY2RJZWxjTk45WGxadHhiWjdQYmlhT0NNNUlMdmQtZkhtWFdxWlFHRjVJR1NGaEJ1YUV6YVRwVEl2WGdDOWpQZlpBblZQT0tJaFduWTJEWmdFQXZORUFQZ2RxNE1QMlpmZ2hOeXBsOTFYZzREcU",
     "category": "global-motorsport",
@@ -90,7 +90,7 @@
     "published_sort": 1787153940.0
   },
   {
-    "title": "Fortunate? Our verdict on Williams retaining Sainz and Albon - the-race.com",
+    "title": "Fortunate? Our verdict on Williams retaining Sainz and Albon - The Race",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2l3RTJDTG83OXVRNm1YUWtrbG5FWERlbHJMdmd5UkZnMGdGRFpCelNVYzhIZEZ0N2d1eG1LbDcxRVNWbHdVQXladXZoWkdiQm12SGtkaUUyaWoxRktLdnFaX1k5YWViTDB0c2JWVGMtajFoNldmMzhWU1VETlk4dDdQdld5c1g1cGNRU2l4bEloWFU?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2l3RTJDTG83OXVRNm1YUWtrbG5FWERlbHJMdmd5UkZnMGdGRFpCelNVYzhIZEZ0N2d1eG1LbDcxRVNWbHdVQXladXZoWkdiQm12SGtkaUUyaWoxRktLdnFaX1k5YWViTDB0c2JWVGMtajFoNldmMzhWU1VETlk4dDdQdld5c1g1cGNRU2l4bEloWFU?oc=5\" target=\"_blank\">Fortunat",
     "category": "global-motorsport",
@@ -100,7 +100,7 @@
     "published_sort": 1787153056.0
   },
   {
-    "title": "Why Gasly podium hearing will take place in private - the-race.com",
+    "title": "Why Gasly podium hearing will take place in private - The Race",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0Z4N1VtdTU0amxSMUU4bnVOcUszZG5GNmJnZ1JrTEhORkNqVTduUUs1TkR2ZWt6c1dyZllaaGdHTVFOOEgtZXNrRkwzcERmcDIyOFhGZXZJdnhtWjl0RnA3WWtfWnhyVG1PLUowcTlzeHUzR0tZZjhCN2hES21PenRQUU5FQU8wRW8wMFRVUFhUa0Ry?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0Z4N1VtdTU0amxSMUU4bnVOcUszZG5GNmJnZ1JrTEhORkNqVTduUUs1TkR2ZWt6c1dyZllaaGdHTVFOOEgtZXNrRkwzcERmcDIyOFhGZXZJdnhtWjl0RnA3WWtfWnhyVG1PLUowcTlzeHUzR0tZZjhCN2hES21PenRQUU5FQU8wRW8wMFRVUFhUa0Ry?oc=5\" target=\"_blank\">Why Gas",
     "category": "global-motorsport",
@@ -110,7 +110,7 @@
     "published_sort": 1787148556.0
   },
   {
-    "title": "Why Carlos Sainz is being wasted at Williams - the-race.com",
+    "title": "Why Carlos Sainz is being wasted at Williams - The Race",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGVOMFZnSG9PdGlDclkyZmMzcjhDZDhKNEdTdm1fU0EteEFLemtZSDdoS1lqRnphcEpWenIwQkNlMG5ZTXNnNnNsTmpUVzMwWkp4R1lRYndhSUFoUXFkWnotWGRla0Z4ejZuVEloNnB5YzNxd0R1WF8tNHlNcGVFWWR1aEFwU1E?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGVOMFZnSG9PdGlDclkyZmMzcjhDZDhKNEdTdm1fU0EteEFLemtZSDdoS1lqRnphcEpWenIwQkNlMG5ZTXNnNnNsTmpUVzMwWkp4R1lRYndhSUFoUXFkWnotWGRla0Z4ejZuVEloNnB5YzNxd0R1WF8tNHlNcGVFWWR1aEFwU1E?oc=5\" target=\"_blank\">Why Carlos Sainz is bein",
     "category": "global-motorsport",
@@ -120,7 +120,7 @@
     "published_sort": 1787147056.0
   },
   {
-    "title": "Williams convinces Sainz to sign multi-year extension - the-race.com",
+    "title": "Williams convinces Sainz to sign multi-year extension - The Race",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0tPRTZOQ2lBLXA1YkVKaVZYX3BuMWRYajliMnE1S1FmOXNLZlhGeVBEdEkzUjFmemI0UFlldnNNVWxNWm5ReWJNN0VOV1djMHd2cFNFYS01V3M0LWkyZ2ZPQmMyYUtrOWN0ZjBiSjIxNFdjdTFMY0pXdnB6VDMzXzFGOEl6OHZfc3h6MGRYdE9uTmM?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0tPRTZOQ2lBLXA1YkVKaVZYX3BuMWRYajliMnE1S1FmOXNLZlhGeVBEdEkzUjFmemI0UFlldnNNVWxNWm5ReWJNN0VOV1djMHd2cFNFYS01V3M0LWkyZ2ZPQmMyYUtrOWN0ZjBiSjIxNFdjdTFMY0pXdnB6VDMzXzFGOEl6OHZfc3h6MGRYdE9uTmM?oc=5\" target=\"_blank\">Williams",
     "category": "global-motorsport",
@@ -130,17 +130,7 @@
     "published_sort": 1787147056.0
   },
   {
-    "title": "Carlos Sainz agrees new multi-year contract with Williams as team complete 2027 driver line-up - formula1.com",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVBYTnVsOGRZenNBTUUtRDRDQklYU2VFQnNsSS1qQ01fajFXZXp3QmU5YmRsVWhYaDBwQV9JTHZyeEtlbHY0cDl6eXFfVHEyYTVxNkQxYS11MnFZeGVvSTVtOGwtVWpaT3BUc0FLbzJldk03dlhxT2k2ODl2aEIwdnhKaHJpQ0FVYTZKZzV6OUQtU1dTWExSdmNWVFpvRy14Vno2YWg2dm53VjJSbjRBTmZ2WVNFR1djNEdyM3dYZ3dyWnpvaDRGemVpQm9Zb0pQUVl4NW5EYXUwRnJGQkdTdzZMY3JleUlk?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVBYTnVsOGRZenNBTUUtRDRDQklYU2VFQnNsSS1qQ01fajFXZXp3QmU5YmRsVWhYaDBwQV9JTHZyeEtlbHY0cDl6eXFfVHEyYTVxNkQxYS11MnFZeGVvSTVtOGwtVWpaT3BUc0FLbzJldk03dlhxT2k2ODl2aEIwdnhKaHJpQ0FVYTZKZzV6OUQtU1dTWExSdmNWVFpvRy14Vno2YWg2dm53Vj",
-    "category": "global-motorsport",
-    "feed_name": "Global Motorsport",
-    "source_host": "news.google.com",
-    "published_utc": "2026-08-19T13:02:00+00:00",
-    "published_sort": 1787144520.0
-  },
-  {
-    "title": "Auto Industry Remains The Last Sticking Point In US-Canada Trade Negotiations - Jalopnik",
+    "title": "Auto Industry Remains The Last Sticking Point In US-Canada Trade Negotiations - jalopnik.com",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORm1sOTEwODg5WE83UVBNYnVfZGh6dmprbjFrc1dQMVRocGhuMWN6OTFjbDBJQ1FleFhNeXByNi1wSTFaQnRiYzJJZ0FUenVXWFNPVERyenNuZmxmLUVQdndPUkJLZzUwVjJHNXI2YjF5a0FObm9qTlJIbXVZQ213dzNwR1U?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORm1sOTEwODg5WE83UVBNYnVfZGh6dmprbjFrc1dQMVRocGhuMWN6OTFjbDBJQ1FleFhNeXByNi1wSTFaQnRiYzJJZ0FUenVXWFNPVERyenNuZmxmLUVQdndPUkJLZzUwVjJHNXI2YjF5a0FObm9qTlJIbXVZQ213dzNwR1U?oc=5\" target=\"_blank\">Auto Industry Remains The La",
     "category": "global-automotive",
@@ -160,7 +150,7 @@
     "published_sort": 1787141931.0
   },
   {
-    "title": "What's really at stake for Lawson on shock Red Bull F1 return - the-race.com",
+    "title": "What's really at stake for Lawson on shock Red Bull F1 return - The Race",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjk3eFRCZldQazJCV3llWWRXVjBUeEZmQkhlSmNxQVdmUFVlMVB6SU54WEZ2eFpzbnNVS25iWVJDT1RkZEo5SXBFWDdEMVBuSmE3aGI4cnptcVc0bUItM0t2QXhQNG5KYU9yQXNYd3BUaEZjZFVTX2Ntc29HdVpMVGRnQUJsdTRjQ2ZVWU1ZN3N3Y3I0NFhQX0FjRVgzUQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWjk3eFRCZldQazJCV3llWWRXVjBUeEZmQkhlSmNxQVdmUFVlMVB6SU54WEZ2eFpzbnNVS25iWVJDT1RkZEo5SXBFWDdEMVBuSmE3aGI4cnptcVc0bUItM0t2QXhQNG5KYU9yQXNYd3BUaEZjZFVTX2Ntc29HdVpMVGRnQUJsdTRjQ2ZVWU1ZN3N3Y3I0NFhQX0FjRVgzUQ?oc=5\" target=\"_",
     "category": "global-motorsport",
@@ -180,7 +170,7 @@
     "published_sort": 1787140825.0
   },
   {
-    "title": "Our verdict on Lawson and Tsunoda's Dutch GP call-ups - the-race.com",
+    "title": "Our verdict on Lawson and Tsunoda's Dutch GP call-ups - The Race",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejc5MWkyZHU1bmJxZUhtRTVXUlQtVEJVc3EyMlB5ZEEwX29jRDBObTNGaGRwaWtyaW5oNVNFdkJnVGpfTUFJNk1Gc0dhNnZTVGswLUhTMG5vTHVJU0xPN2pfOXJSV2NvTXlvT2tQaUNKcFpuN1M5NGlPbVBHd3ZGYmU4cno4MGRFT1lR?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejc5MWkyZHU1bmJxZUhtRTVXUlQtVEJVc3EyMlB5ZEEwX29jRDBObTNGaGRwaWtyaW5oNVNFdkJnVGpfTUFJNk1Gc0dhNnZTVGswLUhTMG5vTHVJU0xPN2pfOXJSV2NvTXlvT2tQaUNKcFpuN1M5NGlPbVBHd3ZGYmU4cno4MGRFT1lR?oc=5\" target=\"_blank\">Our verdict on Laws",
     "category": "global-motorsport",
@@ -190,7 +180,7 @@
     "published_sort": 1787138656.0
   },
   {
-    "title": "Hadjar to miss Dutch GP as Lawson steps up - formula1.com",
+    "title": "Hadjar to miss Dutch GP as Lawson steps up - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTzY0b25VMVI3MHFNMGhZNllBSG42bUhDUFp3amJQQTk4RnNkaUl0R1prY2JLUHllVTdQOXZfdkVYSWQzWUUycGFEUXJZX3ItYXVKY1g3OGt5ZkRqNUF0UkpFQjU2V2piMm51QUJNZjIyMEZzQ3J4VmlpVGY5VTNNRHBWWmVPN0RPZmQzRFZCa0JjR2tCWk1mYlZ2V1o2RktjSXYwR2Q5Z3hNeDFrWHhNenAwcTlNRU4yMEFfNnljYzgxaENtUzhwZWRxMnNIdnlLaUY5ZEx4a2VJOENPcW1leGhHLTBIdEEt?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTzY0b25VMVI3MHFNMGhZNllBSG42bUhDUFp3amJQQTk4RnNkaUl0R1prY2JLUHllVTdQOXZfdkVYSWQzWUUycGFEUXJZX3ItYXVKY1g3OGt5ZkRqNUF0UkpFQjU2V2piMm51QUJNZjIyMEZzQ3J4VmlpVGY5VTNNRHBWWmVPN0RPZmQzRFZCa0JjR2tCWk1mYlZ2V1o2RktjSXYwR2Q5Z3hNeD",
     "category": "global-motorsport",
@@ -220,7 +210,7 @@
     "published_sort": 1787135790.0
   },
   {
-    "title": "What is the weather forecast for the Dutch Grand Prix? - formula1.com",
+    "title": "What is the weather forecast for the Dutch Grand Prix? - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWS1LVnN6M0tRNFRFX2lfNWdZaXNOYm5HcjFPTHAxdWdwU3FEYXJNS18xTTdjc0lrRllGNENLdjZ1ZXRiZFhzaXFSc2pneUU3QWppNGg4TVRKa1JEaXV1dWtwMTEzdG5FQjBYSGd1bExNUVY0TENHSFpRX20wQ0FlalI1WlM4Q2dvZ2dSNDh2TUZKMkhhblZId1NTQWRUYUlhOWlHS0YtUjlrN3NsZ2NSRkdzYWVVUlJIWnN2cV9yWkdwUQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWS1LVnN6M0tRNFRFX2lfNWdZaXNOYm5HcjFPTHAxdWdwU3FEYXJNS18xTTdjc0lrRllGNENLdjZ1ZXRiZFhzaXFSc2pneUU3QWppNGg4TVRKa1JEaXV1dWtwMTEzdG5FQjBYSGd1bExNUVY0TENHSFpRX20wQ0FlalI1WlM4Q2dvZ2dSNDh2TUZKMkhhblZId1NTQWRUYUlhOWlHS0YtUjlrN3",
     "category": "global-motorsport",
@@ -230,7 +220,7 @@
     "published_sort": 1787132400.0
   },
   {
-    "title": "Hadjar in doubt for Dutch GP after wrist injury - the-race.com",
+    "title": "Hadjar in doubt for Dutch GP after wrist injury - The Race",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2RwS25OdUh3clZVdnA2R0lkVXdYbm1DRW1iNEhnVktvejRvc2lMa2hyXzk1VVRMV0RfVDFncy1QU0lsd2YweUlYd2p3TVAzNGkyY0JiQlJURWFlMzRUeVA3a0dUZ3o0YThlNklhNWI4d0QwVkZxX3l5eXMzWVUyR3FSZ25BSFhYUXVpT2Eyc1k4SER0Q1hYZQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2RwS25OdUh3clZVdnA2R0lkVXdYbm1DRW1iNEhnVktvejRvc2lMa2hyXzk1VVRMV0RfVDFncy1QU0lsd2YweUlYd2p3TVAzNGkyY0JiQlJURWFlMzRUeVA3a0dUZ3o0YThlNklhNWI4d0QwVkZxX3l5eXMzWVUyR3FSZ25BSFhYUXVpT2Eyc1k4SER0Q1hYZQ?oc=5\" target=\"_blank\">H",
     "category": "global-motorsport",
@@ -250,7 +240,7 @@
     "published_sort": 1787131493.0
   },
   {
-    "title": "F1 2027 driver lineups: Who has a seat - and who's out of contract? - ESPN",
+    "title": "F1 2027 driver lineups: Who has a seat - and who's out of contract? - espn.com",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjJEQzNHWll0WDNGbHljQlZ1WVRPWVhzUVhhZXpPdXFQalRzZTUxVXVwazJUWld1d0Q4YWRCTXk2TUw2cUkxWHNlcjRzLUowWXVmX2NfSndCeC1ieE1wdnpQWnZoSEdZTVRlSERUaTdaeHRFWG5nZl9IdVpBazZrV2pEUWJNYlFTZ001cnRWRU9kUl9mOEtTS1VRdVR5Y0dCX0F0MUdWMzZOcXA0bDRJ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjJEQzNHWll0WDNGbHljQlZ1WVRPWVhzUVhhZXpPdXFQalRzZTUxVXVwazJUWld1d0Q4YWRCTXk2TUw2cUkxWHNlcjRzLUowWXVmX2NfSndCeC1ieE1wdnpQWnZoSEdZTVRlSERUaTdaeHRFWG5nZl9IdVpBazZrV2pEUWJNYlFTZ001cnRWRU9kUl9mOEtTS1VRdVR5Y0dCX0F0MUdWMzZOcX",
     "category": "global-motorsport",
@@ -270,7 +260,7 @@
     "published_sort": 1787130000.0
   },
   {
-    "title": "C Talk | Pirelli CEO Andrea Casaluci: How a global tire leader is responding to China's auto industry transformation - autonews.gasgoo.com",
+    "title": "C Talk | Pirelli CEO Andrea Casaluci: How a global tire leader is responding to China's auto industry transformation - Gasgoo",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX0tCbUJ6MFZMYWdFcV91TTlLLVJTT2ZLQ1hFYnFBbnliNVRWdk9hNlAxMUE3Zk9QbmkyazRKT045SHUzVXRvZDlzQUZvYnVaOFhBMlVGYkR1TE45Ykd2T1pNTUt6dkI4R3BZOVUzSUxlajM5M1U5Nnc3TXk0U0NRUFJQcG9uakE1dFBxTkI3ei1tOThJTnhLQjU1cHhCaEt4eVlzZWlUXzROUEVfcERTYlZZSTFMdHVjX05rQkRVdlVKVlJJczFYaGR5V2F1dmhac2IwQnlEeHFTMDFsWXR1dDhKb1llTnVLZ2F3ZHB4Wlg3aFVmbFNtdEkwVTNVZkJxOXRsTQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQX0tCbUJ6MFZMYWdFcV91TTlLLVJTT2ZLQ1hFYnFBbnliNVRWdk9hNlAxMUE3Zk9QbmkyazRKT045SHUzVXRvZDlzQUZvYnVaOFhBMlVGYkR1TE45Ykd2T1pNTUt6dkI4R3BZOVUzSUxlajM5M1U5Nnc3TXk0U0NRUFJQcG9uakE1dFBxTkI3ei1tOThJTnhLQjU1cHhCaEt4eVlzZWlUXzROUE",
     "category": "global-automotive",
@@ -300,7 +290,7 @@
     "published_sort": 1787119618.0
   },
   {
-    "title": "Pool days, proposals and paddock preparations – what F1 drivers have been up to ahead of the Dutch Grand Prix - formula1.com",
+    "title": "Pool days, proposals and paddock preparations – what F1 drivers have been up to ahead of the Dutch Grand Prix - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMTNjUjFuWWNKd2kxalU1TXg3ZzVhNnNjZ1J4akt0d1dobVg2QjA3UnRxSkUzSi1UV3ZRdEY0OGVKcXZURy16dXVBMU5xdWR1UXVZQ3JqbEpjajBOYVFtckVKWlNucEtjSEtFelBwZGFxWHhRRzlmVUNGMS1ieGlHT0NZLVh1NFpoM3NfU2VlTE1wSnBFZFctTGtqMjdaeWRyWVRVai1nU1hQVGxmNGdRQUlfVjN4OERVRmxEUWkyTE1kbFRmTXdJbW1qaHlMU2I2U3B5V2ZSVTV4X2xwRjNGQjdyYV9kZm9Fd2ppaVIyN3JXclVtS0lIY0g2NUozUHZsWHc?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNMTNjUjFuWWNKd2kxalU1TXg3ZzVhNnNjZ1J4akt0d1dobVg2QjA3UnRxSkUzSi1UV3ZRdEY0OGVKcXZURy16dXVBMU5xdWR1UXVZQ3JqbEpjajBOYVFtckVKWlNucEtjSEtFelBwZGFxWHhRRzlmVUNGMS1ieGlHT0NZLVh1NFpoM3NfU2VlTE1wSnBFZFctTGtqMjdaeWRyWVRVai1nU1hQVG",
     "category": "global-motorsport",
@@ -360,7 +350,7 @@
     "published_sort": 1787043535.0
   },
   {
-    "title": "The beginner’s guide to the 2026 Formula 1 regulations - formula1.com",
+    "title": "The beginner’s guide to the 2026 Formula 1 regulations - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5hUnd4aUxCeHpNcTNuYmxZcDdBVW1GTjRPZTZVZF9RSzZ5dEc5Ynhma3F5aDlkQ1lENXgzY01LdUZBWXJLdVhnSFFxajJLNmVEeGZnd256OFVmalpqUlVKYS1ONk10RTlCeDZMVmFDQTN3cFJBbExXdV9rTjZYRXQxSlFJRW8xN3FPQS1xbGo4dUVuWmd5SFl0bXhoOVRSaE1vOFBGdU50UU95VHc?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5hUnd4aUxCeHpNcTNuYmxZcDdBVW1GTjRPZTZVZF9RSzZ5dEc5Ynhma3F5aDlkQ1lENXgzY01LdUZBWXJLdVhnSFFxajJLNmVEeGZnd256OFVmalpqUlVKYS1ONk10RTlCeDZMVmFDQTN3cFJBbExXdV9rTjZYRXQxSlFJRW8xN3FPQS1xbGo4dUVuWmd5SFl0bXhoOVRSaE1vOFBGdU50UU",
     "category": "global-motorsport",
@@ -380,7 +370,7 @@
     "published_sort": 1787032920.0
   },
   {
-    "title": "Automotive News awards three of GM’s “Rising Stars” - General Motors",
+    "title": "Automotive News awards three of GM’s “Rising Stars” - news.gm.com",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVpINURtZ0VodFEyVEFXcHBTV3M5NzVidGszOV9DLXdqcGxTbXdxaUFxVkdJQnI3MlMzNlY0OGZicG9XQTNPck1DOExvdC1VbjhlR1dsWGJDNzhEcFluNVh0YXVtOXpFakdUYmRMcngyVXhDbVBBUVl1VU5aMEhJUF80R1BJdk1YMkpWU0pZRQ?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVpINURtZ0VodFEyVEFXcHBTV3M5NzVidGszOV9DLXdqcGxTbXdxaUFxVkdJQnI3MlMzNlY0OGZicG9XQTNPck1DOExvdC1VbjhlR1dsWGJDNzhEcFluNVh0YXVtOXpFakdUYmRMcngyVXhDbVBBUVl1VU5aMEhJUF80R1BJdk1YMkpWU0pZRQ?oc=5\" target=\"_blank\">Automotive Ne",
     "category": "global-automotive",
@@ -388,6 +378,16 @@
     "source_host": "news.google.com",
     "published_utc": "2026-08-18T00:48:09+00:00",
     "published_sort": 1787014089.0
+  },
+  {
+    "title": "McLaren CEO considers adding up to 40% more U.S. dealerships as America tops half of global sales - Automotive News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFVMcGh5VEhzQnZFQk44UHZXejJJeF9UN1lDQVVKUzRvLXJUbU04WGFRMTg4aHZzSW1Fd1kwcGhqNDJVNUtpcmY2NlVTR3lPMUpQRFBtUXNiUE5GMWJsWWUwbE41ZThZU0VXSnNLUWxpeVVvM2RiXzh0bjJ6djdxWkV3eUV4T1VuckE?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFVMcGh5VEhzQnZFQk44UHZXejJJeF9UN1lDQVVKUzRvLXJUbU04WGFRMTg4aHZzSW1Fd1kwcGhqNDJVNUtpcmY2NlVTR3lPMUpQRFBtUXNiUE5GMWJsWWUwbE41ZThZU0VXSnNLUWxpeVVvM2RiXzh0bjJ6djdxWkV3eUV4T1VuckE?oc=5\" target=\"_blank\">McLaren CEO consider",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-08-17T18:46:00+00:00",
+    "published_sort": 1786992360.0
   },
   {
     "title": "Nissan's JS Bolton Named Automotive News Rising Star - usa.nissannews.com",
@@ -400,7 +400,17 @@
     "published_sort": 1786989600.0
   },
   {
-    "title": "What time is the 2026 Dutch GP and how can I watch it? - formula1.com",
+    "title": "Honda Product Leader Named 2026 Automotive News Rising Star - Honda Newsroom",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb2JVTlZtVXB2M2k5VkphTDJLNHlrXzBXckJfZ0cyYzdtTUtFV2VlVVk3ejBBc0hIV0I4UkFQZnJmNUVDVDA1UUF3REdoLVpOLTQxUWhEU2hZLXhmT0pXeVNBV2RuU0J5M3Y1a2V4Q1BXbmxUeWRBOVJUZ0xyaHd1UWdZc1RWdmlRb2dWN01UaWZuMFlHTkw2Vmpub0FCQWJTOG1Kb3ptMnhWbUhPY28yVm1JMDE0MHA5SEVQaldjTFZ4WWlQT2tLM3I2QVBIVnZCcWpoYjdSTk95VUszV3Z1S1A0X3ZQeHlM?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb2JVTlZtVXB2M2k5VkphTDJLNHlrXzBXckJfZ0cyYzdtTUtFV2VlVVk3ejBBc0hIV0I4UkFQZnJmNUVDVDA1UUF3REdoLVpOLTQxUWhEU2hZLXhmT0pXeVNBV2RuU0J5M3Y1a2V4Q1BXbmxUeWRBOVJUZ0xyaHd1UWdZc1RWdmlRb2dWN01UaWZuMFlHTkw2Vmpub0FCQWJTOG1Kb3ptMnhWbU",
+    "category": "global-automotive",
+    "feed_name": "Global Automotive",
+    "source_host": "news.google.com",
+    "published_utc": "2026-08-17T11:00:00+00:00",
+    "published_sort": 1786964400.0
+  },
+  {
+    "title": "What time is the 2026 Dutch GP and how can I watch it? - Formula 1",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVRLaUgtZklYaUlQdW9RWGNCTzhIeDYzN0tBUU94TkhuWnNpZFRvNzgxZkhDRVJNZjNKU18yZGZ5dkMxWUdla2NhcjJjQ3ZXQWNic1FNYm9KR1ZMNWM3R053Zk9hU05rVVhsV0t1U3I4bVpqVVp3SkFjckUtZUl1eFBCZ1pYbFh3Nkw4TEZzWUxaRktIajJzd2VzT21tb3c5RFd1Z096Z0FQbjRZdjhLY2ZPY3RYYXdfcjJFVGJKaGN0MEY4Um1yQ29udzA3Q0x6Wnc?oc=5",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVRLaUgtZklYaUlQdW9RWGNCTzhIeDYzN0tBUU94TkhuWnNpZFRvNzgxZkhDRVJNZjNKU18yZGZ5dkMxWUdla2NhcjJjQ3ZXQWNic1FNYm9KR1ZMNWM3R053Zk9hU05rVVhsV0t1U3I4bVpqVVp3SkFjckUtZUl1eFBCZ1pYbFh3Nkw4TEZzWUxaRktIajJzd2VzT21tb3c5RFd1Z096Z0FQbj",
     "category": "global-motorsport",
@@ -428,16 +438,6 @@
     "source_host": "news.google.com",
     "published_utc": "2026-08-17T08:00:55+00:00",
     "published_sort": 1786953655.0
-  },
-  {
-    "title": "How the 2026 Automotive News Rising Stars are transforming the industry - Automotive News",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGtZQ2x1dmQ1S2JBaWhYbmtUdUV2N0Z2elhyZEVTSUZ1a2hJUW0xQzJLQXFORG5SbGNBb1luWUtncHN2NkRKMm1zcklwY284SHJaWWhfak51Z1ZMdmxHTjBNUHB3aTdueU85bTg0RVZZTEpSMzloS20xLWF2ak50dGR0aE0?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGtZQ2x1dmQ1S2JBaWhYbmtUdUV2N0Z2elhyZEVTSUZ1a2hJUW0xQzJLQXFORG5SbGNBb1luWUtncHN2NkRKMm1zcklwY284SHJaWWhfak51Z1ZMdmxHTjBNUHB3aTdueU85bTg0RVZZTEpSMzloS20xLWF2ak50dGR0aE0?oc=5\" target=\"_blank\">How the 2026 Automotive News",
-    "category": "global-automotive",
-    "feed_name": "Global Automotive",
-    "source_host": "news.google.com",
-    "published_utc": "2026-08-16T10:00:00+00:00",
-    "published_sort": 1786874400.0
   },
   {
     "title": "McLarens Lubricants partners with young karting talent Tanasha Raddella - The Sunday Times, Sri Lanka",
@@ -506,8 +506,8 @@
     "category": "sri-lanka-motorsport",
     "feed_name": "Sri Lanka Motorsport",
     "source_host": "news.google.com",
-    "published_utc": "2026-08-01T18:53:36+00:00",
-    "published_sort": 1785610416.0
+    "published_utc": "2026-08-02T07:00:00+00:00",
+    "published_sort": 1785654000.0
   },
   {
     "title": "HUTCH Enterprise Powers Sri Lanka's Nationwide Digital Vehicle Insurance Verification Platform - The Fast Mode",
@@ -670,14 +670,14 @@
     "published_sort": 1772611200.0
   },
   {
-    "title": "2026 Eliyakanda Hill Climb, Sri Lanka: Selection Of Results - Road Racing News",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkVKZTVvZlZLVldtWDBKUF8xWWJReHFoajRzT25pRVFSQzdqT2RyOXNjUXp0U0xBQmZUQ1hPOGFPbjRlaWx5U2l0SEFQNU1xUDJwZDgyQklHdlpETkRDanZvbC1rN1BCOGs4ZlBYX0FIVWtPQ01rVy1pbUl0Z0c0TnV0QTZvbFN6WS13eWdyNGo?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkVKZTVvZlZLVldtWDBKUF8xWWJReHFoajRzT25pRVFSQzdqT2RyOXNjUXp0U0xBQmZUQ1hPOGFPbjRlaWx5U2l0SEFQNU1xUDJwZDgyQklHdlpETkRDanZvbC1rN1BCOGs4ZlBYX0FIVWtPQ01rVy1pbUl0Z0c0TnV0QTZvbFN6WS13eWdyNGo?oc=5\" target=\"_blank\">2026 Eliyaka",
+    "title": "‘It felt like home’ - The Sunday Times, Sri Lanka",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOUUJMdXgxN2ZxUUZ5anRQanZqYWRtakZDaEpRZk5pcTZ6RFVDU3hXUG5TVVZWLW5iLVZtX3lMbUh0eDlXUFpJNDhYZnZ2bEVDVGNGRVYxVFFCSUlrcDBvWGhWRURKbXJoYnlzNHRoX0YxUGJqczN4RUZR?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBOUUJMdXgxN2ZxUUZ5anRQanZqYWRtakZDaEpRZk5pcTZ6RFVDU3hXUG5TVVZWLW5iLVZtX3lMbUh0eDlXUFpJNDhYZnZ2bEVDVGNGRVYxVFFCSUlrcDBvWGhWRURKbXJoYnlzNHRoX0YxUGJqczN4RUZR?oc=5\" target=\"_blank\">‘It felt like home’</a>&nbsp;&nbsp;<font co",
     "category": "sri-lanka-motorsport",
     "feed_name": "Sri Lanka Motorsport",
     "source_host": "news.google.com",
-    "published_utc": "2026-02-24T08:00:00+00:00",
-    "published_sort": 1771920000.0
+    "published_utc": "2026-02-08T08:00:00+00:00",
+    "published_sort": 1770537600.0
   },
   {
     "title": "Elephant Attacks Tourist Van in Sri Lanka as Passengers Flee - TODAY.com",
@@ -760,14 +760,14 @@
     "published_sort": 1759734000.0
   },
   {
-    "title": "Sri Lanka hosts the Asia Pacific Motorsport Championship 2025 - ThePapare",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNREhOcklGWVdkODlJazQzOEpLS2dnb3JSR25KNDlNYXZRb2x3TFRjV0JHOG1uNWltY3c5elc4Y2Z6OHhoY2JwWDhra2p0clowMWxwM2hweHhNSGRWTHU4N3d1Q2R6RHRyeWdTaXc1N3UxSExVVGxOZDcyRHQ2TXBKeFR4R05iTkxnaXVaZ21FbDgyUQ?oc=5",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNREhOcklGWVdkODlJazQzOEpLS2dnb3JSR25KNDlNYXZRb2x3TFRjV0JHOG1uNWltY3c5elc4Y2Z6OHhoY2JwWDhra2p0clowMWxwM2hweHhNSGRWTHU4N3d1Q2R6RHRyeWdTaXc1N3UxSExVVGxOZDcyRHQ2TXBKeFR4R05iTkxnaXVaZ21FbDgyUQ?oc=5\" target=\"_blank\">Sri Lanka",
+    "title": "AIX Racing signs Yevan David for 2026 Formula 3 campaign - fiaformula3.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmFaU2RDSzV6akZlNUJHWXdVMW81SU0xSUNKVUd3bzRubGRIbkNCTlNiUm1JNVpVSWVHWHB5dnRqTXhlS012cUVnUjhmVGNfTzJJb0lUNi1QdmxzMEU1cl9CMU5YVkxMUVl6OFB4YWp4SnlNN0lpMzFOY2ZqYXBWWVV2VGlLMWlfNVQ5N0xLa3VpT3NtSXgxMUQzZzVkWTh5TGpuaWsxM2pNTm1rRF9IQzY0N0lxOFlSMWRPbUJvNWhGS2c?oc=5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmFaU2RDSzV6akZlNUJHWXdVMW81SU0xSUNKVUd3bzRubGRIbkNCTlNiUm1JNVpVSWVHWHB5dnRqTXhlS012cUVnUjhmVGNfTzJJb0lUNi1QdmxzMEU1cl9CMU5YVkxMUVl6OFB4YWp4SnlNN0lpMzFOY2ZqYXBWWVV2VGlLMWlfNVQ5N0xLa3VpT3NtSXgxMUQzZzVkWTh5TGpuaWsxM2pNTm",
     "category": "sri-lanka-motorsport",
     "feed_name": "Sri Lanka Motorsport",
     "source_host": "news.google.com",
-    "published_utc": "2025-09-23T07:00:00+00:00",
-    "published_sort": 1758610800.0
+    "published_utc": "2025-08-08T07:00:00+00:00",
+    "published_sort": 1754636400.0
   },
   {
     "title": "iRacing to Reality: Yevan David - iRacing",
